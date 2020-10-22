@@ -9,24 +9,3 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-
-resume:
-  - title: "Education"
-    children:
-      - title: "Bachelor of Science in Computer Science"
-        url: /resume/education/#bachelor-of-science-in-computer-science
-      - title: "Undergraduate Certificate Program"
-        url: /resume/education/#undergraduate-certificate-program-in-applied-cybersecurity
-  
-  - title: "Experience"
-    children:
-      - title: "Undergraduate Research Assistant"
-        url: /resume/experience/#undergraduate-research-assistant
-      - title: "Engineer Trainee Year 1"
-        url: /resume/experience/#engineer-trainee-year-1
-      - title: "Software Engineering Student Intern"
-        url: /resume/experience/#software-engineering-student-intern
-      - title: "Summer Undergraduate Research Fellowship"
-        url: /resume/experience/#summer-undergraduate-research-fellowship
-      - title: "Undergraduate Student Assistant"
-        url: /resume/experience/#undergraduate-student-assistant
