@@ -16,7 +16,7 @@ header:
   actions:
     - label: "Learn More"
       url: "https://nationalcyberleague.org"
-excerpt: "Read about my experience and performance with this NCL season's first phase event!"
+excerpt: "Read about my experience with this NCL season's first phase event!"
 ---
 
 I recently participated in the National Cyber League Preseason competition! This is the first season for which I have taken part in the event, and I found the challenges to be both tough and engaging. I felt that throughout the competition, for each challenge I tackled and completed, I was learning new concepts and improving my existing skill in others.
@@ -77,7 +77,7 @@ Based on my performance in the Preseason, I expect to be placed in the Gold brac
   </tbody>
 </table>
 
-Following the conclusion of the competition, National Cyber League also provides its participants with summary reports of their performance down to the level of the challenge categories, so players can get a better understanding of which areas in which they excelled and which areas they may want to focus their attention on improving for futures seasons. My score breakdown is included below:
+Following the conclusion of the competition, National Cyber League also provides its participants with summary reports of their performance down to the level of the challenge categories, so players can get a better understanding of which areas in which they excelled and which areas they may want to focus their attention on improving for future seasons. My score breakdown is included below:
 
 <table class="notice" style="border-collapse:collapse">
   <tbody>
@@ -269,7 +269,9 @@ Following the conclusion of the competition, National Cyber League also provides
   </tbody>
 </table>
 
-Overall, I'd say that I most enjoyed this Preseason's Network Traffic Analysis module. The Hard level challenge, called "Split", I found to be particularly fun to tackle and finally complete. It certainly stumped me at first, but the best part of any CTF is the feeling you get when you ultimately trump a tricky or difficult obstacle and rake in a ton of points! (In this case, 135 pts!) Incidentally, in the Network Traffic Analysis category, I come out at rank 22 out of 6021 participants. Next time, I'll be aiming for the top!
+Overall, I'd say that I most enjoyed this Preseason's Network Traffic Analysis module. The Hard-level challenge, called "Split", I found to be particularly fun to tackle and finally complete. It certainly stumped me at first, but the best part of any CTF is the feeling you get when you ultimately trump a tricky or difficult obstacle and rake in a ton of points! (In this case, 135 pts!)
+
+Incidentally, in the Network Traffic Analysis category, I come out at rank 22 out of 6021 participants. Next time, I'll be aiming for the top!
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
