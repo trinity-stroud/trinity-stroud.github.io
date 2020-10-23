@@ -89,6 +89,9 @@ about:
   
   - title: "Publications"
     url: /about/#publications
+    children:
+      - title: "ACM Symposium on Applied Computing (SAC '20)"
+        url: /about/#pub1
 
   - title: "Media"
     url: /about/#media

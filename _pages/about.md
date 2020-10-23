@@ -16,7 +16,7 @@ I very actively participate on my university's campus through our student organi
 
 In addition to my extra-curricular activities and participation in student organizations, I also regularly participate in local and national collegiate-level cybersecurity, programming, and Mathematical competitions. I am a national finalist in the Cyber FastTrack Program, a cybersecurity competition for which I [earned a full scholarship](/about/#media2) for the SANS Technology Institute Undergraduate Certificate Program in Applied Cybersecurity. I've also [twice achieved a positive score](/about/#william-lowell-putnam-mathematical-competition) in the William Lowell Putnam Mathematical competition, a contest for which the median score is often zero.
 
-I also work as a research assistant for my university as part of our Computing Undergraduate Research Experience (CURE) program. As part of this program, I conduct research in the areas of circuit obfuscation and program protection. I have published my work to the [ACM Symposium on Applied Computing (SAC)](/about/#publications), presented my research at the [NSF Secure and Trustworthy Cyberspace (SaTC) Principal Investigators' Meeting](/about/#secure-and-trustworthy-cyberspace-satc-meeting) in Virginia, and been invited to attend the Workshop for Women in Cybersecurity Research (Colocated with CODASPY).
+I also work as a research assistant for my university as part of our Computing Undergraduate Research Experience (CURE) program. As part of this program, I conduct research in the areas of circuit obfuscation and program protection. I have published my work to the [ACM Symposium on Applied Computing (SAC)](/about/#pub1), presented my research at the [NSF Secure and Trustworthy Cyberspace (SaTC) Principal Investigators' Meeting](/about/#secure-and-trustworthy-cyberspace-satc-meeting) in Virginia, and been invited to attend the Workshop for Women in Cybersecurity Research (Colocated with CODASPY).
 
 ---
 
@@ -277,7 +277,11 @@ Performance: Placed 3rd & 3rd & 2nd & 2nd, respectively
 
 ## Publications
 
-1. Jeffrey T. McDonald, Trinity L. Stroud, and Todd R. Andel. 2020. Polymorphic Circuit Generation Using Random Boolean Logic Expansion. In Proceedings of the 35th Annual ACM Symposium on Applied Computing (SAC '20). Association for Computing Machinery, New York, NY, USA, 1753–1762. [DOI:10.1145/3341105.3374031](https://dl.acm.org/doi/10.1145/3341105.3374031)
+<ol> 
+    <li id="pub1">
+    Jeffrey T. McDonald, Trinity L. Stroud, and Todd R. Andel. 2020. <em>Polymorphic Circuit Generation Using Random Boolean Logic Expansion</em>. In Proceedings of the 35th Annual ACM Symposium on Applied Computing (SAC '20). Association for Computing Machinery, New York, NY, USA, 1753–1762. <a href="https://dl.acm.org/doi/10.1145/3341105.3374031">DOI:10.1145/3341105.3374031</a>
+    </li>
+</ol>
 
 <div style="text-align:right">
     <a href="#top" class="btn btn--primary btn--small">Back to Top</a>
