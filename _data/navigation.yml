@@ -78,6 +78,23 @@ about:
 
   - title: "Organizations"
     url: /about/#organizations
+    children:
+      - title: "Student Government Association"
+        url: /about/#student-government-association
+      - title: "USA Honors College"
+        url: /about/#university-of-south-alabama-honors-college
+      - title: "Association for Computing Machinery"
+        url: /about/#association-for-computing-machinery
+      - title: "DayZero Cyber Competition Team"
+        url: /about/#dayzero-cyber-competition-team
+      - title: "Sys. Prot. & Expl. Rsrch. Grp."
+        url: /about/#systems-protection--exploitation-research-group
+      - title: "Mortar Board Azalea Chapter"
+        url: /about/#mortar-board-azalea-chapter
+      - title: "Upsilon Pi Epsilon Honor Society"
+        url: /about/#upsilon-pi-epsilon-honor-society
+      - title: "Phi Kappa Phi Honor Society"
+        url: /about/#phi-kappa-phi-honor-society
 
   - title: "Presentations"
     url: /about/#presentations
