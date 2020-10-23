@@ -12,7 +12,7 @@ classes: wide
 
 I'm an undergraduate Honors student at the University of South Alabama majoring in Computer Science and minoring in Mathematics.
 
-I very actively participate on my university's campus through our student organizations. I am currently the Tutoring Chair of our chapter of the Association for Computing Machinery (ACM), which allows me to coordinate tutors in the School of Computing to work with students one-on-one. Additionally, I am one of two elected Student Government Association (SGA) Senators representing the USA School of Computing. My duties as part of the student Legislature include participation in our Rules and Legal Affairs Committees. I am also the Secretary of our DayZero Cyber Competition Team, a student organization which promotes professional development in cybersecurity through hands-on learning and experience.
+I very actively participate on my university's campus through our student organizations. I am currently the Tutoring Chair of our chapter of the [Association for Computing Machinery (ACM)](/about/#association-for-computing-machinery), which allows me to coordinate tutors in the School of Computing to work with students one-on-one. Additionally, I am one of two elected [Student Government Association (SGA)] Senators(/about/#student-government-association) representing the USA School of Computing. My duties as part of the student Legislature include participation in our Rules and Legal Affairs Committees. I am also the Secretary of our [DayZero Cyber Competition Team](/about/#dayzero-cyber-competition-team), a student organization which promotes professional development in cybersecurity through hands-on learning and experience.
 
 In addition to my extra-curricular activities and participation in student organizations, I also regularly participate in local and national collegiate-level cybersecurity, programming, and Mathematical competitions. I am a national finalist in the Cyber FastTrack Program, a cybersecurity competition for which I [earned a full scholarship](/about/#media2) for the SANS Technology Institute Undergraduate Certificate Program in Applied Cybersecurity. I've also [twice achieved a positive score](/about/#william-lowell-putnam-mathematical-competition) in the William Lowell Putnam Mathematical competition, a contest for which the median score is often zero.
 
@@ -254,6 +254,86 @@ Performance: Placed 3rd & 3rd & 2nd & 2nd, respectively
 </div>
 
 ## Achievements
+
+### Association for Computing Machinery (ACM) Scholarship
+
+Awarded By: University of South Alabama School of Computing\
+Award Date: 2020
+
+### Academic All-Stars 2020
+
+Awarded By: University of South Alabama\
+Award Date: 2019-2020
+
+### Summer Undergraduate Research Fellowship
+
+Awarded By: USA Office of Undergraduate Research\
+Award Date: 2019
+
+### Cyber FastTrack Scholarship
+
+Awarded By: SANS Technology Institute\
+Award Date: 2019
+
+### Neil Laura Henderson Rising Junior Scholarship
+
+Awarded By: USA School of Computing\
+Award Date: 2018
+
+### President's Scholar List
+
+Awarded By: University of South Alabama\
+Award Date: Fall 2017 - Spring 2020
+
+### Dean's List
+
+Awarded By: University of South Alabama\
+Award Date: Fall 2016 & Summer 2018
+
+### Outstanding Physics Student Award
+
+Awarded By: USA Department of Physics\
+Award Date: 2019
+
+### English Excellence Award
+
+Awarded By: USA Department of English\
+Award Date: 2018
+
+### Distinguished Academic Achievement Award
+
+Awarded By: University of South Alabama\
+Award Date: 2017
+
+### Whiddon Honors Scholarship
+
+Awarded By: USA Honors College\
+Award Date: 2017
+
+### USA Merit Scholarship
+
+Awarded By: University of South Alabama\
+Award Date: 2017
+
+### National Merit Finalist
+
+Awarded By: National Merit Scholarship Corporation\
+Award Date: 2017
+
+### BEST Robotics Scholarship
+
+Awarded By: USA School of Computing\
+Award Date: 2017
+
+### AP Scholar with Distinction Award
+
+Awarded By: College Board\
+Award Date: 2017
+
+### AP Scholar with Honor Award
+
+Awarded By: College Board\
+Award Date: 2017
 
 <div style="text-align:right">
     <a href="#top" class="btn btn--primary btn--small">Back to Top</a>
