@@ -77,3 +77,8 @@ about:
 
   - title: "Media"
     url: /about/#media
+    children:
+      - title: '"Preventing a Big Hack Attack"'
+        url: /about/#media1
+      - title: '"USA SoC Student Awarded $22,000 Scholarship"'
+        url: /about/#media2

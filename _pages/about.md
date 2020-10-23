@@ -4,22 +4,19 @@ title: "About"
 author_profile: false
 sidebar:
   - title: "About"
-    #image: /assets/images/bio-photo.jpg
-    #image_alt: "Photo of Trinity Stroud"
+    image: /assets/images/bio-photo-circle.png
+    image_alt: "Photo of Trinity Stroud"
     nav: about
 classes: wide
-#toc: true
-#toc-label: "CV"
-#toc-icon: "file"
 ---
 
 I'm an undergraduate Honors student at the University of South Alabama majoring in Computer Science and minoring in Mathematics.
 
 I very actively participate on my university's campus through our student organizations. I am currently the Tutoring Chair of our chapter of the Association for Computing Machinery (ACM), which allows me to coordinate tutors in the School of Computing to work with students one-on-one. Additionally, I am one of two elected Student Government Association (SGA) Senators representing the USA School of Computing. My duties as part of the student Legislature include participation in our Rules and Legal Affairs Committees. I am also the Secretary of our DayZero Cyber Competition Team, a student organization which promotes professional development in cybersecurity through hands-on learning and experience.
 
-In addition to my extra-curricular activities and participation in student organizations, I also regularly participate in local and national collegiate-level cybersecurity, programming, and Mathematical competitions. I am a national finalist in the Cyber FastTrack Program, a cybersecurity competition for which I earned a full scholarship for the SANS Technology Institute Undergraduate Certificate Program in Applied Cybersecurity. I've also twice achieved a positive score in the William Lowell Putnam Mathematical competition, a contest for which the median score is often zero.
+In addition to my extra-curricular activities and participation in student organizations, I also regularly participate in local and national collegiate-level cybersecurity, programming, and Mathematical competitions. I am a national finalist in the Cyber FastTrack Program, a cybersecurity competition for which I [earned a full scholarship](/about/#media2) for the SANS Technology Institute Undergraduate Certificate Program in Applied Cybersecurity. I've also twice achieved a positive score in the William Lowell Putnam Mathematical competition, a contest for which the median score is often zero.
 
-I also work as a research assistant for my university as part of our Computing Undergraduate Research Experience (CURE) program. As part of this program, I conduct research in the areas of circuit obfuscation and program protection. I have published my work to the ACM Symposium on Applied Computing (SAC), presented my research at the NSF Secure and Trustworthy Cyberspace (SaTC) Principal Investigators' Meeting in Virginia, and been invited to attend the Workshop for Women in Cybersecurity Research (Colocated with CODASPY).
+I also work as a research assistant for my university as part of our Computing Undergraduate Research Experience (CURE) program. As part of this program, I conduct research in the areas of circuit obfuscation and program protection. I have published my work to the ACM Symposium on Applied Computing (SAC), presented my research at the [NSF Secure and Trustworthy Cyberspace (SaTC) Principal Investigators' Meeting](/about/#secure-and-trustworthy-cyberspace-satc-meeting) in Virginia, and been invited to attend the Workshop for Women in Cybersecurity Research (Colocated with CODASPY).
 
 ---
 
@@ -36,7 +33,9 @@ SANS Technology Institute\
 4.0 GPA (on a scale of 4.0)\
 *12/2019 - 12/2020*
 
-<a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+<div style="text-align:right">
+    <a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+</div>
 
 ## Experience
 
@@ -84,7 +83,9 @@ Computing Undergraduate Research Experience (CURE)\
 - Configured attached RaspberryPi3 with Raspbian OS
 - Programmed commands for motors and sensors in Python
 
-<a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+<div style="text-align:right">
+    <a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+</div>
 
 ## Certifications
 
@@ -192,19 +193,27 @@ Skills:
 <a class="btn btn--inverse btn--small">Transition</a>\
 <a href="https://www.youracclaim.com/badges/37814adb-e77b-44fe-a0aa-ca6a5adac219" class="btn btn--info btn--small">Verify Here</a>
 
-<a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+<div style="text-align:right">
+    <a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+</div>
 
 ## Competitions
 
-<a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+<div style="text-align:right">
+    <a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+</div>
 
 ## Achievements
 
-<a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+<div style="text-align:right">
+    <a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+</div>
 
 ## Organizations
 
-<a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+<div style="text-align:right">
+    <a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+</div>
 
 ## Presentations
 
@@ -212,12 +221,36 @@ Skills:
 
 ### Undergraduate Research Symposium
 
-<a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+<div style="text-align:right">
+    <a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+</div>
 
 ## Publications
 
-<a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+1. Jeffrey T. McDonald, Trinity L. Stroud, and Todd R. Andel. 2020. Polymorphic Circuit Generation Using Random Boolean Logic Expansion. In Proceedings of the 35th Annual ACM Symposium on Applied Computing (SAC '20). Association for Computing Machinery, New York, NY, USA, 1753–1762. [DOI:10.1145/3341105.3374031](https://dl.acm.org/doi/10.1145/3341105.3374031)
+
+<div style="text-align:right">
+    <a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+</div>
 
 ## Media
 
-<a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+[<img id="media1" src="/assets/images/preventing-big-hack-attack-image.jpg" width="600"/>](/assets/images/preventing-big-hack-attack-image.jpg)
+
+"Preventing a Big Hack Attack"\
+Posted on October 31, 2019 by [Bob Lowry](mailto:rlowry@southalabama.edu)
+
+[Learn More](https://www.southalabama.edu/departments/publicrelations/pressreleases/103119cyber.html){: .btn .btn--info}
+
+---
+
+[<img id="media2" src="/assets/images/cyber-fasttrack-image.png" width="600"/>](/assets/images/cyber-fasttrack-image.png)
+
+"Student Awarded $22,000 Scholarship in Cyber FastTrack Competition"\
+Posted on September 27, 2019 by [Spencer Radford](mailto:csr1101@jagmail.southalabama.edu)
+
+[Learn More](https://www.southalabama.edu/colleges/soc/news/tstroud-cyber-competition.html){: .btn .btn--info}
+
+<div style="text-align:right">
+    <a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+</div>
