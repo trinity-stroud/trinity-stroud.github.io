@@ -14,9 +14,9 @@ I'm an undergraduate Honors student at the University of South Alabama majoring 
 
 I very actively participate on my university's campus through our student organizations. I am currently the Tutoring Chair of our chapter of the Association for Computing Machinery (ACM), which allows me to coordinate tutors in the School of Computing to work with students one-on-one. Additionally, I am one of two elected Student Government Association (SGA) Senators representing the USA School of Computing. My duties as part of the student Legislature include participation in our Rules and Legal Affairs Committees. I am also the Secretary of our DayZero Cyber Competition Team, a student organization which promotes professional development in cybersecurity through hands-on learning and experience.
 
-In addition to my extra-curricular activities and participation in student organizations, I also regularly participate in local and national collegiate-level cybersecurity, programming, and Mathematical competitions. I am a national finalist in the Cyber FastTrack Program, a cybersecurity competition for which I [earned a full scholarship](/about/#media2) for the SANS Technology Institute Undergraduate Certificate Program in Applied Cybersecurity. I've also twice achieved a positive score in the William Lowell Putnam Mathematical competition, a contest for which the median score is often zero.
+In addition to my extra-curricular activities and participation in student organizations, I also regularly participate in local and national collegiate-level cybersecurity, programming, and Mathematical competitions. I am a national finalist in the Cyber FastTrack Program, a cybersecurity competition for which I [earned a full scholarship](/about/#media2) for the SANS Technology Institute Undergraduate Certificate Program in Applied Cybersecurity. I've also [twice achieved a positive score](/about/#william-lowell-putnam-mathematical-competition) in the William Lowell Putnam Mathematical competition, a contest for which the median score is often zero.
 
-I also work as a research assistant for my university as part of our Computing Undergraduate Research Experience (CURE) program. As part of this program, I conduct research in the areas of circuit obfuscation and program protection. I have published my work to the ACM Symposium on Applied Computing (SAC), presented my research at the [NSF Secure and Trustworthy Cyberspace (SaTC) Principal Investigators' Meeting](/about/#secure-and-trustworthy-cyberspace-satc-meeting) in Virginia, and been invited to attend the Workshop for Women in Cybersecurity Research (Colocated with CODASPY).
+I also work as a research assistant for my university as part of our Computing Undergraduate Research Experience (CURE) program. As part of this program, I conduct research in the areas of circuit obfuscation and program protection. I have published my work to the [ACM Symposium on Applied Computing (SAC)](/about/#publications), presented my research at the [NSF Secure and Trustworthy Cyberspace (SaTC) Principal Investigators' Meeting](/about/#secure-and-trustworthy-cyberspace-satc-meeting) in Virginia, and been invited to attend the Workshop for Women in Cybersecurity Research (Colocated with CODASPY).
 
 ---
 
@@ -198,6 +198,56 @@ Skills:
 </div>
 
 ## Competitions
+
+### National Cyber League
+
+Hosted By: [Cyber Skyline](https://nationalcyberleague.org/)\
+Date: Fall 2020\
+Performance: Top 3% in Preseason
+
+[Learn More](/blog/ncl-fall-preseason/){: .btn .btn--info}
+
+### Cyber FastTrack Program
+
+Hosted By: [SANS Technology Institute](https://cyber-fasttrack.org/)\
+Date: 2019\
+Performance: National Finalist
+
+[Learn More](/about/#media1){: .btn .btn--info}
+
+### Master the Mainframe
+
+Hosted By: [IBM](https://www.ibm.com/it-infrastructure/z/education/master-the-mainframe)\
+Date: 2020\
+Performance: Level 2
+
+[Learn More](/about/#master-the-mainframe-2020---level-2){: .btn .btn--info}
+
+### Cyber Challenge
+
+Hosted By: [EC-Council University](https://www.eccu.edu/cyber-challenge/)\
+Date: 04/2020\
+Performance: Hall of Fame
+
+[Learn More](https://www.eccu.edu/cyber-challenge/hall-of-fame/){: .btn .btn--info}
+
+### ICPC Regionals
+
+Hosted By: [ICPC Foundation](https://icpc.global/)\
+Date: 2019\
+Performance: Placed 3rd in Division II
+
+### William Lowell Putnam Mathematical Competition
+
+Hosted By: [Mathematical Association of America](https://www.maa.org/math-competitions/putnam-competition)\
+Date: 2018 & 2019\
+Performance: Scored 3 & 1, respectively
+
+### Mobile Math Olympiad
+
+Hosted By: [USA Math Circle](https://www.southalabama.edu/colleges/artsandsci/mathstat/mathcircle.html)\
+Date: 2014 & 2015 & 2016 & 2017\
+Performance: Placed 3rd & 3rd & 2nd & 2nd, respectively
 
 <div style="text-align:right">
     <a href="#top" class="btn btn--primary btn--small">Back to Top</a>

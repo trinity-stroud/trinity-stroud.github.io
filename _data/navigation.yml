@@ -57,6 +57,21 @@ about:
   
   - title: "Competitions"
     url: /about/#competitions
+    children:
+      - title: "National Cyber League"
+        url: /about/#national-cyber-league
+      - title: "Cyber FastTrack Program"
+        url: /about/#cyber-fasttrack-program
+      - title: "Master the Mainframe"
+        url: /about/#master-the-mainframe
+      - title: "Cyber Challenge"
+        url: /about/#cyber-challenge
+      - title: "ICPC Regionals"
+        url: /about/#icpc-regionals
+      - title: "Putnam Math Competition"
+        url: /about/#william-lowell-putnam-mathematical-competition
+      - title: "Mobile Math Olympiad"
+        url: /about/#mobile-math-olympiad
 
   - title: "Achievements"
     url: /about/#achievements
