@@ -1,6 +1,6 @@
 ---
 title: "National Cyber League Fall 2020 Preseason"
-date: 2020-10-21T1:46:00-05:00
+date: 2020-10-22T3:26:00-05:00
 permalink: /:categories/:title/
 categories:
   - Blog
@@ -25,7 +25,7 @@ For anyone interested in participating in Capture-The-Flag (CTF) events, whether
 
 As this was the Preseason portion of the competition, my achievement in this round will determine the bracket in which I will participate for the Individual event, which is to be held from October 23rd - 24th, 2020. I'm looking forward to participating and seeing what the NCL Individual Game has to offer!
 
-Based on my performance in the Preseason, I expect to be placed in the Gold bracket, which is reserved for the top 15% of qualified players:
+Based on my performance in the Preseason, I have been placed in the Gold bracket, which is reserved for the top 15% of qualified players:
 
 <table class="notice" style="border-collapse:collapse">
   <tbody>
