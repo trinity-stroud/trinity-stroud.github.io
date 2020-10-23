@@ -9,3 +9,71 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+
+about:
+  - title: "Education"
+    url: /about/#education
+    children:
+      - title: "Bachelor of Science in Comp. Sci."
+        url: /about/#bachelor-of-science-in-computer-science
+      - title: "UG. Cert. Program in App. Cybersec."
+        url: /about/#undergraduate-certificate-program-in-applied-cybersecurity
+  
+  - title: "Experience"
+    url: /about/#experience
+    children:
+      - title: "UG. Research Assistant"
+        url: /about/#undergraduate-research-assistant
+      - title: "Engineer Trainee Year 1"
+        url: /about/#engineer-trainee-year-1
+      - title: "Soft. Eng. Student Intern"
+        url: /about/#software-engineering-student-intern
+      - title: "Summer UG. Research Fellowship"
+        url: /about/#summer-undergraduate-research-fellowship
+      - title: "UG. Student Assistant"
+        url: /about/#undergraduate-student-assistant
+  
+  - title: "Certifications"
+    url: /about/#certifications
+    children:
+      - title: "GIAC GCIH"
+        url: /about/#giac-certified-incident-handler-gcih
+      - title: "GIAC GSEC"
+        url: /about/#giac-security-essentials-certification-gsec
+      - title: "GIAC Advisory Board"
+        url: /about/#giac-advisory-board
+      - title: "MTM 2020: Lvl 2"
+        url: /about/#master-the-mainframe-2020---level-2
+      - title: "MOS Master 2013"
+        url: /about/#microsoft-office-specialist-master-2013
+      - title: "MOS Expert: Word 2013"
+        url: /about/#microsoft-office-specialist-expert-word-2013
+      - title: "MOS Excel 2013"
+        url: /about/#microsoft-office-specialist-excel-2013
+      - title: "MOS Word 2013"
+        url: /about/#microsoft-office-specialist-word-2013
+      - title: "MOS PowerPoint 2013"
+        url: /about/#microsoft-office-specialist-powerpoint-2013
+  
+  - title: "Competitions"
+    url: /about/#competitions
+
+  - title: "Achievements"
+    url: /about/#achievements
+
+  - title: "Organizations"
+    url: /about/#organizations
+
+  - title: "Presentations"
+    url: /about/#presentations
+    children:
+      - title: "Secure and Trustworthy Cyberspace"
+        url: /about/#secure-and-trustworthy-cyberspace-satc-meeting
+      - title: "Undergraduate Research Symposium"
+        url: /about/#undergraduate-research-symposium
+  
+  - title: "Publications"
+    url: /about/#publications
+
+  - title: "Media"
+    url: /about/#media

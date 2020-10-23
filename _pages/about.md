@@ -1,12 +1,16 @@
 ---
 permalink: /about/
 title: "About"
-author_profile: true
-#sidebar:
-#    nav: "resume"
-toc: true
-toc-label: "CV"
-toc-icon: "file"
+author_profile: false
+sidebar:
+  - title: "About"
+    #image: /assets/images/bio-photo.jpg
+    #image_alt: "Photo of Trinity Stroud"
+    nav: about
+classes: wide
+#toc: true
+#toc-label: "CV"
+#toc-icon: "file"
 ---
 
 I'm an undergraduate Honors student at the University of South Alabama majoring in Computer Science and minoring in Mathematics.
@@ -16,3 +20,204 @@ I very actively participate on my university's campus through our student organi
 In addition to my extra-curricular activities and participation in student organizations, I also regularly participate in local and national collegiate-level cybersecurity, programming, and Mathematical competitions. I am a national finalist in the Cyber FastTrack Program, a cybersecurity competition for which I earned a full scholarship for the SANS Technology Institute Undergraduate Certificate Program in Applied Cybersecurity. I've also twice achieved a positive score in the William Lowell Putnam Mathematical competition, a contest for which the median score is often zero.
 
 I also work as a research assistant for my university as part of our Computing Undergraduate Research Experience (CURE) program. As part of this program, I conduct research in the areas of circuit obfuscation and program protection. I have published my work to the ACM Symposium on Applied Computing (SAC), presented my research at the NSF Secure and Trustworthy Cyberspace (SaTC) Principal Investigators' Meeting in Virginia, and been invited to attend the Workshop for Women in Cybersecurity Research (Colocated with CODASPY).
+
+---
+
+## Education
+### Bachelor of Science in Computer Science
+
+University of South Alabama, Mobile, AL\
+4.0 GPA (on a scale of 4.0)\
+*08/2017 - 05/2021*
+
+### Undergraduate Certificate Program in Applied Cybersecurity
+
+SANS Technology Institute\
+4.0 GPA (on a scale of 4.0)\
+*12/2019 - 12/2020*
+
+<a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+
+## Experience
+
+### Undergraduate Research Assistant
+
+University of South Alabama, Mobile, AL\
+*05/2019 - Present*
+- *Secure and Trustworthy Cyberspace (SaTC) Program Grant : Award # CNS-1811578*
+- Assisted in developing Java software for random program generations
+- Conducted and published circuit obfuscation research
+
+### Engineer Trainee Year 1
+
+Dynetics, Huntsville, AL\
+Mechanical Design and Systems Engineering Dept.\
+*05/2020 - 07/2020*
+- Worked on a web application for tracking and managing equipment using C#, JavaScript, HTML, and the Vue.js framework
+- Implemented new feature for searching, uploading, downloading, editing, and deleting content related to images of equipment
+- Followed Scrum agile development and used Git for versioning control
+
+### Software Engineering Student Intern
+
+AM/NS Calvert, Mobile, AL\
+USA School of Computing Internship Program\
+*09/2019 - 08/2020*
+- Digitized physical forms for data collection, organization, and retrieval
+- Created front-end of forms with HTML, JavaScript, and Vue.js
+
+### Summer Undergraduate Research Fellowship
+
+University of South Alabama, Mobile, AL\
+Office of Undergraduate Research (OUR)\
+*05/2019 - 07/2019*
+- Approximated random circuit selection using deterministic polymorphic generation
+- Compared distributions produced by three different obfuscation algorithms
+- Wrote literature review and academic paper on research results
+- Presented research poster at Undergraduate Research Symposium in the Fall
+
+### Undergraduate Student Assistant
+
+University of South Alabama, Mobile, AL\
+Computing Undergraduate Research Experience (CURE)\
+*01/2018 - 04/2018*
+- Built a Jaguar Autonomous Vehicle (JAV) robot using a LEGO Mindstorms NXT Robotics kit
+- Configured attached RaspberryPi3 with Raspbian OS
+- Programmed commands for motors and sensors in Python
+
+<a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+
+## Certifications
+
+### GIAC Certified Incident Handler (GCIH)
+
+Issued by: Global Information Assurance Certification (GIAC)\
+Valid from: 08/2020 - 08/2024\
+Skills:
+<a class="btn btn--inverse btn--small">Incident Handling</a>
+<a class="btn btn--inverse btn--small">Incident Response</a>
+<a class="btn btn--inverse btn--small">Information Security</a>
+<a class="btn btn--inverse btn--small">Network Security</a>\
+<a href="https://www.youracclaim.com/badges/0e959749-aab8-4ed6-9755-ec72084a1a38" class="btn btn--info btn--small">Verify Here</a>
+
+### GIAC Security Essentials Certification (GSEC)
+
+Issued by: Global Information Assurance Certification (GIAC)\
+Valid from: 03/2020 - 03/2024\
+Skills:
+<a class="btn btn--inverse btn--small">Information Security</a>
+<a class="btn btn--inverse btn--small">Windows Security</a>
+<a class="btn btn--inverse btn--small">DNS</a>
+<a class="btn btn--inverse btn--small">TCP-IP</a>
+<a class="btn btn--inverse btn--small">Access Control</a>\
+<a href="https://www.youracclaim.com/badges/5eec8738-9a9d-424b-8bf7-05064566661b" class="btn btn--info btn--small">Verify Here</a>
+
+### GIAC Advisory Board
+
+Issued by: Global Information Assurance Certification (GIAC)\
+Valid from: 08/2020 - 08/2024\
+Skills:
+<a class="btn btn--inverse btn--small">Cyber Defense</a>
+<a class="btn btn--inverse btn--small">Cybersecurity</a>
+<a class="btn btn--inverse btn--small">Data Protection</a>
+<a class="btn btn--inverse btn--small">Information Security</a>\
+<a href="https://www.youracclaim.com/badges/9d44d5cc-cb71-4c59-8fc5-dd1250093378" class="btn btn--info btn--small">Verify Here</a>
+
+### Master the Mainframe 2020 - Level 2
+
+Issued by: IBM\
+Valid from: 09/2020\
+Skills:
+<a class="btn btn--inverse btn--small">Bash</a>
+<a class="btn btn--inverse btn--small">JCL</a>
+<a class="btn btn--inverse btn--small">Programming</a>
+<a class="btn btn--inverse btn--small">z/OS</a>
+<a class="btn btn--inverse btn--small">Zowe</a>
+<a class="btn btn--inverse btn--small">Python</a>\
+<a href="https://www.youracclaim.com/badges/3806ef55-791d-47c8-bb51-246bff9573fc" class="btn btn--info btn--small">Verify Here</a>
+
+### Microsoft Office Specialist Master: 2013
+
+Issued by: Microsoft\
+Valid from: 05/2017\
+Skills:
+<a class="btn btn--inverse btn--small">Word Expert 2013</a>
+<a class="btn btn--inverse btn--small">Excel 2013</a>
+<a class="btn btn--inverse btn--small">PowerPoint 2013</a>\
+<a href="https://www.youracclaim.com/badges/cceb0772-7e71-4684-b0e5-65497ea32b3c" class="btn btn--info btn--small">Verify Here</a>
+
+### Microsoft Office Specialist Expert: Word 2013
+
+Issued by: Microsoft\
+Valid from: 05/2017\
+Skills:
+<a class="btn btn--inverse btn--small">Advanced Formatting</a>
+<a class="btn btn--inverse btn--small">Document Templates</a>
+<a class="btn btn--inverse btn--small">Macros</a>
+<a class="btn btn--inverse btn--small">Tables</a>
+<a class="btn btn--inverse btn--small">Styles</a>\
+<a href="https://www.youracclaim.com/badges/2d822d6c-726f-4e31-935d-4457f11289ec" class="btn btn--info btn--small">Verify Here</a>
+
+### Microsoft Office Specialist: Excel 2013
+
+Issued by: Microsoft\
+Valid from: 02/2017\
+Skills:
+<a class="btn btn--inverse btn--small">Charts</a>
+<a class="btn btn--inverse btn--small">Graphs</a>
+<a class="btn btn--inverse btn--small">Ranges</a>
+<a class="btn btn--inverse btn--small">Spreadsheets</a>
+<a class="btn btn--inverse btn--small">Tables</a>\
+<a href="https://www.youracclaim.com/badges/df7a8347-73d7-4338-af1a-f3c8c0700764" class="btn btn--info btn--small">Verify Here</a>
+
+### Microsoft Office Specialist: Word 2013
+
+Issued by: Microsoft\
+Valid from: 01/2017\
+Skills:
+<a class="btn btn--inverse btn--small">Documents</a>
+<a class="btn btn--inverse btn--small">Templates</a>
+<a class="btn btn--inverse btn--small">Styles</a>
+<a class="btn btn--inverse btn--small">Tables</a>
+<a class="btn btn--inverse btn--small">Themes</a>\
+<a href="https://www.youracclaim.com/badges/810ea2df-7e2a-4404-964c-95d4a33ff581" class="btn btn--info btn--small">Verify Here</a>
+
+### Microsoft Office Specialist: PowerPoint 2013
+
+Issued by: Microsoft\
+Valid from: 02/2016\
+Skills:
+<a class="btn btn--inverse btn--small">Animation</a>
+<a class="btn btn--inverse btn--small">Presentation</a>
+<a class="btn btn--inverse btn--small">Slide Master</a>
+<a class="btn btn--inverse btn--small">Transition</a>\
+<a href="https://www.youracclaim.com/badges/37814adb-e77b-44fe-a0aa-ca6a5adac219" class="btn btn--info btn--small">Verify Here</a>
+
+<a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+
+## Competitions
+
+<a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+
+## Achievements
+
+<a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+
+## Organizations
+
+<a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+
+## Presentations
+
+### Secure and Trustworthy Cyberspace (SaTC) Meeting
+
+### Undergraduate Research Symposium
+
+<a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+
+## Publications
+
+<a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+
+## Media
+
+<a href="#top" class="btn btn--primary btn--small">Back to Top</a>
