@@ -36,6 +36,8 @@ breadcrumbs: true
 include:
   - _pages
   - _about
+  - _portfolio
+  - _tryhackme
 
 # The following items will not be processed, by default. Create a custom list to override the default setting.
 # exclude:
@@ -110,6 +112,22 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _tryhackme
+  - scope:
+      path: ""
+      type: tryhackme
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 category_archive:
   type: liquid
@@ -117,3 +135,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  tryhackme:
+    output: true
+    permalink: /:collection/:path/
