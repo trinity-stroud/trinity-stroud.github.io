@@ -1,5 +1,5 @@
 ---
-permalink: /about/education
+permalink: /about/education/
 title: "Education"
 author_profile: false
 sidebar:

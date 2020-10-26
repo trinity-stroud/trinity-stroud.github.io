@@ -1,5 +1,5 @@
 ---
-permalink: /about/competitions
+permalink: /about/competitions/
 title: "Competitions"
 author_profile: false
 sidebar:

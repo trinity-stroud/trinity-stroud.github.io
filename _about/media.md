@@ -1,5 +1,5 @@
 ---
-permalink: /about/media
+permalink: /about/media/
 title: "Media"
 author_profile: false
 sidebar:

@@ -1,5 +1,5 @@
 ---
-permalink: /about/presentations
+permalink: /about/presentations/
 title: "Presentations"
 author_profile: false
 sidebar:

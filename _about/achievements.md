@@ -1,5 +1,5 @@
 ---
-permalink: /about/achievements
+permalink: /about/achievements/
 title: "Achievements"
 author_profile: false
 sidebar:
