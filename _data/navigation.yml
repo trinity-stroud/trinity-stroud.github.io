@@ -11,142 +11,173 @@ main:
     url: /tags/
 
 about:
+  - title: "About"
+    url: /about/#top
+    children:
+      - title: "Education"
+        url: /about/education/
+      - title: "Experience"
+        url: /about/experience/
+      - title: "Certifications"
+        url: /about/certifications/
+      - title: "Competitions"
+        url: /about/competitions/
+      - title: "Achievements"
+        url: /about/achievements/
+      - title: "Organizations"
+        url: /about/organizations/
+      - title: "Presentations"
+        url: /about/presentations/
+      - title: "Publications"
+        url: /about/publications/
+      - title: "Media"
+        url: /about/media/
+
+education:
   - title: "Education"
-    url: /about/#education
+    url: /about/education/#top
     children:
       - title: "Bachelor of Science in Comp. Sci."
-        url: /about/#bachelor-of-science-in-computer-science
+        url: /about/education/#bachelor-of-science-in-computer-science
       - title: "UG. Cert. Program in App. Cybersec."
-        url: /about/#undergraduate-certificate-program-in-applied-cybersecurity
-  
+        url: /about/education/#undergraduate-certificate-program-in-applied-cybersecurity
+
+experience:
   - title: "Experience"
-    url: /about/#experience
+    url: /about/experience/#top
     children:
       - title: "UG. Research Assistant"
-        url: /about/#undergraduate-research-assistant
+        url: /about/experience/#undergraduate-research-assistant
       - title: "Engineer Trainee Year 1"
-        url: /about/#engineer-trainee-year-1
+        url: /about/experience/#engineer-trainee-year-1
       - title: "Soft. Eng. Student Intern"
-        url: /about/#software-engineering-student-intern
+        url: /about/experience/#software-engineering-student-intern
       - title: "Summer UG. Research Fellowship"
-        url: /about/#summer-undergraduate-research-fellowship
+        url: /about/experience/#summer-undergraduate-research-fellowship
       - title: "UG. Student Assistant"
-        url: /about/#undergraduate-student-assistant
-  
+        url: /about/experience/#undergraduate-student-assistant
+
+certifications:
   - title: "Certifications"
-    url: /about/#certifications
+    url: /about/certifications/#top
     children:
       - title: "GIAC GCIH"
-        url: /about/#giac-certified-incident-handler-gcih
+        url: /about/certifications/#giac-certified-incident-handler-gcih
       - title: "GIAC GSEC"
-        url: /about/#giac-security-essentials-certification-gsec
+        url: /about/certifications/#giac-security-essentials-certification-gsec
       - title: "GIAC Advisory Board"
-        url: /about/#giac-advisory-board
+        url: /about/certifications/#giac-advisory-board
       - title: "MTM 2020: Lvl 2"
-        url: /about/#master-the-mainframe-2020---level-2
+        url: /about/certifications/#master-the-mainframe-2020---level-2
       - title: "MOS Master 2013"
-        url: /about/#microsoft-office-specialist-master-2013
+        url: /about/certifications/#microsoft-office-specialist-master-2013
       - title: "MOS Expert: Word 2013"
-        url: /about/#microsoft-office-specialist-expert-word-2013
+        url: /about/certifications/#microsoft-office-specialist-expert-word-2013
       - title: "MOS Excel 2013"
-        url: /about/#microsoft-office-specialist-excel-2013
+        url: /about/certifications/#microsoft-office-specialist-excel-2013
       - title: "MOS Word 2013"
-        url: /about/#microsoft-office-specialist-word-2013
+        url: /about/certifications/#microsoft-office-specialist-word-2013
       - title: "MOS PowerPoint 2013"
-        url: /about/#microsoft-office-specialist-powerpoint-2013
+        url: /about/certifications/#microsoft-office-specialist-powerpoint-2013
   
+competitions:
   - title: "Competitions"
-    url: /about/#competitions
+    url: /about/competitions/#top
     children:
       - title: "National Cyber League"
-        url: /about/#national-cyber-league
+        url: /about/competitions/#national-cyber-league
       - title: "Cyber FastTrack Program"
-        url: /about/#cyber-fasttrack-program
+        url: /about/competitions/#cyber-fasttrack-program
       - title: "Master the Mainframe"
-        url: /about/#master-the-mainframe
+        url: /about/competitions/#master-the-mainframe
       - title: "Cyber Challenge"
-        url: /about/#cyber-challenge
+        url: /about/competitions/#cyber-challenge
       - title: "ICPC Regionals"
-        url: /about/#icpc-regionals
+        url: /about/competitions/#icpc-regionals
       - title: "Putnam Math Competition"
-        url: /about/#william-lowell-putnam-mathematical-competition
+        url: /about/competitions/#william-lowell-putnam-mathematical-competition
       - title: "Mobile Math Olympiad"
-        url: /about/#mobile-math-olympiad
+        url: /about/competitions/#mobile-math-olympiad
 
+achievements:
   - title: "Achievements"
-    url: /about/#achievements
+    url: /about/achievements/#top
     children:
       - title: "ACM Scholarship"
-        url: /about/#association-for-computing-machinery-acm-scholarship
+        url: /about/achievements/#association-for-computing-machinery-acm-scholarship
       - title: "Academic All-Stars"
-        url: /about/#academic-all-stars
+        url: /about/achievements/#academic-all-stars
       - title: "Undergrad. Research Fellowship"
-        url: /about/#summer-undergraduate-research-fellowship-1
+        url: /about/achievements/#summer-undergraduate-research-fellowship
       - title: "Cyber FastTrack Scholarship"
-        url: /about/#cyber-fasttrack-scholarship
+        url: /about/achievements/#cyber-fasttrack-scholarship
       - title: "Neil Laura Henderson Scholarship"
-        url: /about/#neil-laura-henderson-rising-junior-scholarship
+        url: /about/achievements/#neil-laura-henderson-rising-junior-scholarship
       - title: "President's Scholar List"
-        url: /about/#presidents-scholar-list
+        url: /about/achievements/#presidents-scholar-list
       - title: "Dean's List"
-        url: /about/#deans-list
+        url: /about/achievements/#deans-list
       - title: "Outstanding Physics Student Award"
-        url: /about/#outstanding-physics-student-award
+        url: /about/achievements/#outstanding-physics-student-award
       - title: "English Excellence Award"
-        url: /about/#english-excellence-award
+        url: /about/achievements/#english-excellence-award
       - title: "Distinguished Achievement Award"
-        url: /about/#distinguished-academic-achievement-award
+        url: /about/achievements/#distinguished-academic-achievement-award
       - title: "Whiddon Honors Scholarship"
-        url: /about/#whiddon-honors-scholarship
+        url: /about/achievements/#whiddon-honors-scholarship
       - title: "USA Merit Scholarship"
-        url: /about/#usa-merit-scholarship
+        url: /about/achievements/#usa-merit-scholarship
       - title: "National Merit Finalist"
-        url: /about/#national-merit-finalist
+        url: /about/achievements/#national-merit-finalist
       - title: "BEST Robotics Scholarship"
-        url: /about/#best-robotics-scholarship
+        url: /about/achievements/#best-robotics-scholarship
       - title: "AP Scholar w/ Distinction"
-        url: /about/#ap-scholar-with-distinction-award
+        url: /about/achievements/#ap-scholar-with-distinction-award
       - title: "AP Scholar w/ Honor"
-        url: /about/#ap-scholar-with-honor-award
+        url: /about/achievements/#ap-scholar-with-honor-award
 
+organizations:
   - title: "Organizations"
-    url: /about/#organizations
+    url: /about/organizations/#top
     children:
       - title: "Student Government Association"
-        url: /about/#student-government-association
+        url: /about/organizations/#student-government-association
       - title: "USA Honors College"
-        url: /about/#university-of-south-alabama-honors-college
+        url: /about/organizations/#university-of-south-alabama-honors-college
       - title: "Association for Computing Machinery"
-        url: /about/#association-for-computing-machinery
+        url: /about/organizations/#association-for-computing-machinery
       - title: "DayZero Cyber Competition Team"
-        url: /about/#dayzero-cyber-competition-team
+        url: /about/organizations/#dayzero-cyber-competition-team
       - title: "Sys. Prot. & Expl. Rsrch. Grp."
-        url: /about/#systems-protection--exploitation-research-group
+        url: /about/organizations/#systems-protection--exploitation-research-group
       - title: "Mortar Board Azalea Chapter"
-        url: /about/#mortar-board-azalea-chapter
+        url: /about/organizations/#mortar-board-azalea-chapter
       - title: "Upsilon Pi Epsilon Honor Society"
-        url: /about/#upsilon-pi-epsilon-honor-society
+        url: /about/organizations/#upsilon-pi-epsilon-honor-society
       - title: "Phi Kappa Phi Honor Society"
-        url: /about/#phi-kappa-phi-honor-society
+        url: /about/organizations/#phi-kappa-phi-honor-society
 
+presentations:
   - title: "Presentations"
-    url: /about/#presentations
+    url: /about/presentations/#top
     children:
       - title: "Secure and Trustworthy Cyberspace"
-        url: /about/#secure-and-trustworthy-cyberspace-satc-meeting
+        url: /about/presentations/#secure-and-trustworthy-cyberspace-satc-meeting
       - title: "Undergraduate Research Symposium"
-        url: /about/#undergraduate-research-symposium
+        url: /about/presentations/#undergraduate-research-symposium
   
+publications:
   - title: "Publications"
-    url: /about/#publications
+    url: /about/publications/#top
     children:
       - title: "ACM Symposium on Applied Computing (SAC '20)"
-        url: /about/#pub1
+        url: /about/publications/#pub1
 
+media:
   - title: "Media"
-    url: /about/#media
+    url: /about/media/#top
     children:
       - title: '"Preventing a Big Hack Attack"'
-        url: /about/#media1
+        url: /about/media/#media1
       - title: '"USA SoC Student Awarded $22,000 Scholarship"'
-        url: /about/#media2
+        url: /about/media/#media2
