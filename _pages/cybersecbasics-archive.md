@@ -1,7 +1,7 @@
 ---
 title: "Cybersecurity Basics"
 layout: collection
-permalink: /cybersecurity-basics/
+permalink: /cybersecbasics/
 collection: cybersecbasics
 entries_layout: grid
 classes: wide
