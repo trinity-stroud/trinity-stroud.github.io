@@ -1,5 +1,5 @@
 ---
-permalink: /about/organizations
+permalink: /about/organizations/
 title: "Organizations"
 author_profile: false
 sidebar:

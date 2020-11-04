@@ -1,5 +1,5 @@
 ---
-permalink: /about/certifications
+permalink: /about/certifications/
 title: "Certifications"
 author_profile: false
 sidebar:

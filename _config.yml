@@ -38,6 +38,7 @@ include:
   - _about
   - _portfolio
   - _tryhackme
+  - _cybersecbasics
 
 # The following items will not be processed, by default. Create a custom list to override the default setting.
 # exclude:
@@ -114,7 +115,7 @@ defaults:
       author_profile: true
   # _portfolio
   - scope:
-      path: ""
+      path: "_portfolio"
       type: portfolio
     values:
       layout: single
@@ -122,8 +123,16 @@ defaults:
       share: true
   # _tryhackme
   - scope:
-      path: ""
+      path: "_tryhackme"
       type: tryhackme
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _cybersecbasics
+  - scope:
+      path: "_cybersecbasics"
+      type: cybersecbasics
     values:
       layout: single
       author_profile: true
@@ -141,5 +150,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   tryhackme:
+    output: true
+    permalink: /:collection/:path/
+  cybersecbasics:
     output: true
     permalink: /:collection/:path/
