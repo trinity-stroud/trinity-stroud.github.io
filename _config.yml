@@ -62,8 +62,8 @@ plugins:
 author:
   name   : "Trinity Stroud"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Undergraduate Computer Science student with an passion for cybersecurity."
-  location: "Alabama, USA"
+  bio    : "Undergrad student with a passion for cybersecurity."
+  #location: "Alabama, USA"
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"

@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-author_profile: false
+author_profile: true
 sidebar:
     nav: about
 classes: wide
