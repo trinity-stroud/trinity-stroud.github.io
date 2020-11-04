@@ -173,11 +173,11 @@ publications:
       - title: "ACM Symposium on Applied Computing (SAC '20)"
         url: /about/publications/#pub1
 
-media:
-  - title: "Media"
-    url: /about/media/#top
-    children:
-      - title: '"Preventing a Big Hack Attack"'
-        url: /about/media/#media1
-      - title: '"USA SoC Student Awarded $22,000 Scholarship"'
-        url: /about/media/#media2
+#media:
+ # - title: "Media"
+  #  url: /about/media/#top
+   # children:
+    #  - title: '"Preventing a Big Hack Attack"'
+     #   url: /about/media/#media1
+      #- title: '"USA SoC Student Awarded $22,000 Scholarship"'
+       # url: /about/media/#media2
