@@ -8,7 +8,7 @@ classes: wide
 ---
 
 <div style="float:left; display:inline-block">
-    <h2>Bachelor of Science in Computer Science</h2>
+    <h2 id="bachelor-of-science-in-computer-science">Bachelor of Science in Computer Science</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 20%">
             <img src="/assets/images/usa-logo-small.png" alt="USA Logo"/>
@@ -25,7 +25,7 @@ classes: wide
 </div>
 
 <div style="float:left; display:inline-block">
-    <h2>Undergraduate Certificate Program in Applied Cybersecurity</h2>
+    <h2 id="undergraduate-certificate-program-in-applied-cybersecurity">Undergraduate Certificate Program in Applied Cybersecurity</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 20%">
             <img src="/assets/images/sans-logo-small.png" alt="SANS Technology Institute Logo"/>
