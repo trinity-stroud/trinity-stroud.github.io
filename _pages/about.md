@@ -2,11 +2,10 @@
 permalink: /about/
 title: "About"
 author_profile: true
-sidebar:
-    nav: about
-classes: wide
+#classes: wide
 ---
 
+<!--
 I'm an undergraduate Honors student at the University of South Alabama majoring in Computer Science and minoring in Mathematics.
 {: style="text-align: justify;"}
 
@@ -18,3 +17,65 @@ In addition to my extra-curricular activities and participation in student organ
 
 I also work as a research assistant for my university as part of our Computing Undergraduate Research Experience (CURE) program. As part of this program, I conduct research in the areas of circuit obfuscation and program protection. I have published my work to the [ACM Symposium on Applied Computing (SAC)](/about/publications/#pub1), presented my research at the [NSF Secure and Trustworthy Cyberspace (SaTC) Principal Investigators' Meeting](/about/presentations/#secure-and-trustworthy-cyberspace-satc-meeting) in Virginia, and been invited to attend the Workshop for Women in Cybersecurity Research (Colocated with CODASPY).
 {: style="text-align: justify;"}
+-->
+
+<figure class="third">
+    <a class="container" href="/about/education/">
+        <i class="fas fa-graduation-cap"></i>
+        <div><strong>Education</strong></div>
+        <br>
+    </a>
+    <a class="container" href="/about/experience/">
+        <i class="fas fa-briefcase"></i>
+        <div><strong>Experience</strong></div>
+        <br>
+    </a>
+    <a class="container" href="/about/certifications/">
+        <i class="fas fa-certificate"></i>
+        <div><strong>Certifications</strong></div>
+        <br>
+    </a>
+    <a class="container" href="/about/competitions/">
+        <i class="fas fa-trophy"></i>
+        <div><strong>Competitions</strong></div>
+        <br>
+    </a>
+    <a class="container" href="/about/achievements/">
+        <i class="fas fa-award"></i>
+        <div><strong>Achievements</strong></div>
+        <br>
+    </a>
+    <a class="container" href="/about/organizations/">
+        <i class="fas fa-users"></i>
+        <div><strong>Organizations</strong></div>
+        <br>
+    </a>
+    <a class="container" href="/about/presentations/">
+        <i class="fas fa-chalkboard-teacher"></i>
+        <div><strong>Presentations</strong></div>
+        <br>
+    </a>
+    <a class="container" href="/about/publications/">
+        <i class="fas fa-newspaper"></i>
+        <div><strong>Publications</strong></div>
+        <br>
+    </a>
+    <a class="container" href="/about/media/">
+        <i class="fas fa-image"></i>
+        <div><strong>Media</strong></div>
+        <br>
+    </a>
+</figure>
+
+<style>
+.container {
+  position: relative;
+  text-align: center;
+}
+a {
+    text-decoration: none;
+}
+figure > a > i {
+    font-size: 100px
+}
+</style>
