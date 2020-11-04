@@ -8,6 +8,7 @@ tags:
   - Cybersecurity
   - NCL
   - Competition
+  - CTF
 header:
   overlay_image: /assets/images/ncl-logo.png
   overlay_filter: 0.2
@@ -86,7 +87,7 @@ Following the conclusion of the competition, National Cyber League also provides
         <h4> Module Breakdowns: </h4>
       </td>
     </tr>
-    <!-- OSINT section -->
+    <!-- Open Source Intelligence section -->
     <tr>
       <td style="border:none">
         <strong> Open Source Intelligence: </strong>
@@ -233,7 +234,7 @@ Following the conclusion of the competition, National Cyber League also provides
     <!-- Enumeration and Exploitation section -->
     <tr>
       <td style="border:none">
-        <strong> Cryptography: </strong>
+        <strong> Enumeration and Exploitation: </strong>
       </td>
     </tr>
     <tr>
@@ -272,7 +273,3 @@ Following the conclusion of the competition, National Cyber League also provides
 Overall, I'd say that I most enjoyed this Preseason's Network Traffic Analysis module. The Hard-level challenge, called "Split", I found to be particularly fun to tackle and finally complete. It certainly stumped me at first, but the best part of any CTF is the feeling you get when you ultimately trump a tricky or difficult obstacle and rake in a ton of points! (In this case, 135 pts!)
 
 Incidentally, in the Network Traffic Analysis category, I come out at rank 22 out of 6021 participants. Next time, I'll be aiming for the top!
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
