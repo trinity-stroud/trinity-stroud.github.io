@@ -1,8 +1,6 @@
 ---
 permalink: /about/media/
 title: "Media"
-author_profile: true
-classes: wide
 
 feature_row1:
   - image_path: /assets/images/preventing-big-hack-attack-image.jpg

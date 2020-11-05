@@ -1,8 +1,6 @@
 ---
 permalink: /about/achievements/
 title: "Achievements"
-author_profile: true
-classes: wide
 
 feature_row1:
   - image_path: /assets/images/acm-logo.gif

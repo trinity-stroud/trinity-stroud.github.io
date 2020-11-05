@@ -1,10 +1,6 @@
 ---
 permalink: /about/publications/
 title: "Publications"
-author_profile: false
-sidebar:
-    nav: publications
-classes: wide
 ---
 
 <ol> 

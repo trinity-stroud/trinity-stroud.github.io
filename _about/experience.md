@@ -1,10 +1,6 @@
 ---
 permalink: /about/experience/
 title: "Experience"
-author_profile: false
-sidebar:
-    nav: experience
-classes: wide
 ---
 
 <div style="float:left; display:inline-block">

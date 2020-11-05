@@ -1,8 +1,6 @@
 ---
 permalink: /about/organizations/
 title: "Organizations"
-author_profile: true
-classes: wide
 
 feature_row1:
   - image_path: /assets/images/usa-honors-logo-large.png
