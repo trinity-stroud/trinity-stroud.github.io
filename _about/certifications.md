@@ -1,10 +1,6 @@
 ---
 permalink: /about/certifications/
 title: "Certifications"
-author_profile: false
-sidebar:
-    nav: certifications
-classes: wide
 ---
 
 ### GIAC Certified Incident Handler (GCIH)

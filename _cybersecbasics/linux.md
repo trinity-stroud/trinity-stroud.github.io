@@ -1,6 +1,6 @@
 ---
 title: "Linux"
-excerpt: "About the Linux family of operating systems and its commands."
+excerpt: "About the Linux family of operating systems and its most useful commands."
 header:
   teaser: /assets/images/linux-logo.png
 toc: true

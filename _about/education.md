@@ -1,10 +1,6 @@
 ---
 permalink: /about/education/
 title: "Education"
-author_profile: false
-sidebar:
-    nav: education
-classes: wide
 ---
 
 <div style="float:left; display:inline-block">

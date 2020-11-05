@@ -1,90 +1,119 @@
 ---
 permalink: /about/achievements/
 title: "Achievements"
-author_profile: false
-sidebar:
-    nav: achievements
-classes: wide
+
+feature_row1:
+  - image_path: /assets/images/acm-logo.gif
+    title: 'ACM Scholarship'
+    excerpt: 'University of South Alabama<br>School of Computing<br>Award Date: 2020'
+
+feature_row2:
+  - image_path: /assets/images/academic-all-stars.png
+    title: 'Academic All-Stars 2019-2020'
+    excerpt: 'University of South Alabama<br>School of Computing<br>Award Date: 2020'
+
+feature_row3:
+  - image_path: /assets/images/office-undergrad-research-logo.jpg
+    title: 'Summer Undergraduate Research Fellowship'
+    excerpt: 'University of South Alabama<br>Office of Undergraduate Research<br>Award Date: 2019'
+
+feature_row4:
+  - image_path: /assets/images/cyber-fasttrack-image.png
+    title: 'Cyber FastTrack Scholarship'
+    excerpt: 'SANS Technology Institute<br>Award Date: 2019'
+
+feature_row5:
+  - image_path: /assets/images/usa-logo-large.png
+    title: 'Neil Laura Henderson Rising Junior Scholarship'
+    excerpt: 'University of South Alabama<br>School of Computing<br>Award Date: 2019'
+
+feature_row6:
+  - image_path: /assets/images/usa-logo-large.png
+    title: "President's Scholar List"
+    excerpt: 'University of South Alabama<br>Award Date: Fall 2017 - Spring 2020'
+
+feature_row7:
+  - image_path: /assets/images/usa-logo-large.png
+    title: "Dean's List"
+    excerpt: 'University of South Alabama<br>Award Date: Fall 2016 & Summer 2018'
+
+feature_row8:
+  - image_path: /assets/images/usa-logo-large.png
+    title: 'Outstanding Physics Student Award'
+    excerpt: 'University of South Alabama<br>Department of Physics<br>Award Date: 2019'
+
+feature_row9:
+  - image_path: /assets/images/usa-logo-large.png
+    title: 'English Excellence Award'
+    excerpt: 'University of South Alabama<br>Department of English<br>Award Date: 2018'
+
+feature_row10:
+  - image_path: /assets/images/usa-logo-large.png
+    title: 'Distinguished Academic Achievement Award'
+    excerpt: 'University of South Alabama<br>Award Date: 2017'
+
+feature_row11:
+  - image_path: /assets/images/usa-honors-logo-large.png
+    title: 'Whiddon Honors Scholarship'
+    excerpt: 'University of South Alabama<br>Honors College<br>Award Date: 2017'
+
+feature_row12:
+  - image_path: /assets/images/usa-logo-large.png
+    title: 'USA Merit Scholarship'
+    excerpt: 'University of South Alabama<br>Award Date: 2017'
+
+feature_row13:
+  - image_path: /assets/images/national-merit-logo-large.jpg
+    title: 'National Merit Finalist'
+    excerpt: 'National Merit Scholarship Corporation<br>Award Date: 2017'
+
+feature_row14:
+  - image_path: /assets/images/usa-logo-large.png
+    title: 'BEST Robotics Scholarship'
+    excerpt: 'University of South Alabama<br>School of Computing<br>Award Date: 2017'
+
+feature_row15:
+  - image_path: /assets/images/college-board-logo-large.png
+    title: 'AP Scholar with Distinction Award'
+    excerpt: 'College Board<br>Award Date: 2017'
+
+feature_row16:
+  - image_path: /assets/images/college-board-logo-large.png
+    title: 'AP Scholar with Honor Award'
+    excerpt: 'College Board<br>Award Date: 2017'
+
 ---
 
-### Association for Computing Machinery (ACM) Scholarship
+{% include feature_row id="feature_row1" type="left" %}
 
-Awarded By: University of South Alabama School of Computing\
-Award Date: 2020
+{% include feature_row id="feature_row2" type="left" %}
 
-### Academic All-Stars
+{% include feature_row id="feature_row3" type="left" %}
 
-Awarded By: University of South Alabama\
-Award Date: 2019-2020
+{% include feature_row id="feature_row4" type="left" %}
 
-### Summer Undergraduate Research Fellowship
+{% include feature_row id="feature_row5" type="left" %}
 
-Awarded By: USA Office of Undergraduate Research\
-Award Date: 2019
+{% include feature_row id="feature_row6" type="left" %}
 
-### Cyber FastTrack Scholarship
+{% include feature_row id="feature_row7" type="left" %}
 
-Awarded By: SANS Technology Institute\
-Award Date: 2019
+{% include feature_row id="feature_row8" type="left" %}
 
-### Neil Laura Henderson Rising Junior Scholarship
+{% include feature_row id="feature_row9" type="left" %}
 
-Awarded By: USA School of Computing\
-Award Date: 2018
+{% include feature_row id="feature_row10" type="left" %}
 
-### President's Scholar List
+{% include feature_row id="feature_row11" type="left" %}
 
-Awarded By: University of South Alabama\
-Award Date: Fall 2017 - Spring 2020
+{% include feature_row id="feature_row12" type="left" %}
 
-### Dean's List
+{% include feature_row id="feature_row13" type="left" %}
 
-Awarded By: University of South Alabama\
-Award Date: Fall 2016 & Summer 2018
+{% include feature_row id="feature_row14" type="left" %}
 
-### Outstanding Physics Student Award
+{% include feature_row id="feature_row15" type="left" %}
 
-Awarded By: USA Department of Physics\
-Award Date: 2019
-
-### English Excellence Award
-
-Awarded By: USA Department of English\
-Award Date: 2018
-
-### Distinguished Academic Achievement Award
-
-Awarded By: University of South Alabama\
-Award Date: 2017
-
-### Whiddon Honors Scholarship
-
-Awarded By: USA Honors College\
-Award Date: 2017
-
-### USA Merit Scholarship
-
-Awarded By: University of South Alabama\
-Award Date: 2017
-
-### National Merit Finalist
-
-Awarded By: National Merit Scholarship Corporation\
-Award Date: 2017
-
-### BEST Robotics Scholarship
-
-Awarded By: USA School of Computing\
-Award Date: 2017
-
-### AP Scholar with Distinction Award
-
-Awarded By: College Board\
-Award Date: 2017
-
-### AP Scholar with Honor Award
-
-Awarded By: College Board\
-Award Date: 2017
+{% include feature_row id="feature_row16" type="left" %}
 
 [Back to Top](#top){: .btn .btn--primary .btn--small}

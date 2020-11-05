@@ -1,13 +1,9 @@
 ---
 permalink: /about/presentations/
 title: "Presentations"
-author_profile: false
-sidebar:
-    nav: presentations
-classes: wide
 ---
 
-### Secure and Trustworthy Cyberspace (SaTC) Meeting
+## Secure and Trustworthy Cyberspace (SaTC) Meeting
 
 Established By: National Science Foundation (NSF)\
 Hosted by: [Cyber-Physical Systems Virtual Organization (CPS-VO)](https://cps-vo.org/group/satc-pimtg19)\
@@ -19,7 +15,7 @@ October 27-29, 2019
   - [*Developing a Deterministic Polymorphic Circuit Generator Using Boolean Logic Representation*](https://cps-vo.org/node/65590)
   - Authored by Trinity L. Stroud, J. Todd, McDonald, Todd R. Andel, and William Mahoney
 
-### Undergraduate Research Symposium
+## Undergraduate Research Symposium
 
 Hosted By: [Office of Undergraduate Research (OUR)](https://www.southalabama.edu/programs/our/research-symposium.html)\
 Advised By: [University Committee on Undergraduate Research (UCUR)](https://www.southalabama.edu/programs/our/ucur.html)\

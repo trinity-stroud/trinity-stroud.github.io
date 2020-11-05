@@ -1,10 +1,6 @@
 ---
 permalink: /about/competitions/
 title: "Competitions"
-author_profile: false
-sidebar:
-    nav: competitions
-classes: wide
 ---
 
 ### National Cyber League

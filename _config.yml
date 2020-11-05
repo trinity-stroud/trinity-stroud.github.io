@@ -30,7 +30,6 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/Chicago
-breadcrumbs: true
 
 
 include:
@@ -62,8 +61,8 @@ plugins:
 author:
   name   : "Trinity Stroud"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Undergrad student with a passion for cybersecurity."
-  #location: "Alabama, USA"
+  bio    : "Undergraduate computer science student with a passion for cybersecurity."
+  location: "Alabama, USA"
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
@@ -112,6 +111,7 @@ defaults:
       type: pages
     values:
       layout: single
+      classes: wide
       author_profile: true
   # _portfolio
   - scope:
