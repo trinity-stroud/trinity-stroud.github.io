@@ -4,10 +4,10 @@ title: "Certifications"
 ---
 
 <div style="float:left; display:inline-block">
-    <h3 id="giac-certified-incident-handler-gcih">GIAC Certified Incident Handler (GCIH)</h3>
+    <h3 id="gcih">GIAC Certified Incident Handler (GCIH)</h3>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 15%">
-            <img src="/assets/images/giac-gcih-logo.png" alt="USA Logo"/>
+            <img src="/assets/images/giac-gcih-logo.png"/>
         </span>
         <span style="float:left; width: 3%"></span>
         <span style="float:right; width: 82%">
@@ -26,7 +26,7 @@ title: "Certifications"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="giac-certified-incident-handler-gsec">GIAC Security Essentials Certification (GSEC)</h3>
+    <h3 id="gsec">GIAC Security Essentials Certification (GSEC)</h3>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 15%">
             <img src="/assets/images/giac-gsec-logo.png">
@@ -71,7 +71,7 @@ title: "Certifications"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="master-the-mainframe-2020--level-2">Master the Mainframe 2020 - Level 2</h3>
+    <h3 id="mtm-lvl-2">Master the Mainframe 2020 - Level 2</h3>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 15%">
             <img src="/assets/images/ibm-mtm-lvl2-logo.png"/>
@@ -94,7 +94,7 @@ title: "Certifications"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="microsoft-office-specialist-master-2013">Microsoft Office Specialist Master: 2013</h3>
+    <h3 id="mos-master-2013">Microsoft Office Specialist Master: 2013</h3>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 15%">
             <img src="/assets/images/mos-master-logo.png"/>
@@ -115,7 +115,7 @@ title: "Certifications"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="microsoft-office-specialist-expert-word-2013">Microsoft Office Specialist Expert: Word 2013</h3>
+    <h3 id="mos-expert-word-2013">Microsoft Office Specialist Expert: Word 2013</h3>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 15%">
             <img src="/assets/images/mos-word-expert-logo.png"/>
@@ -138,7 +138,7 @@ title: "Certifications"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="microsoft-office-specialist-excel-2013">Microsoft Office Specialist: Excel 2013</h3>
+    <h3 id="mos-excel-2013">Microsoft Office Specialist: Excel 2013</h3>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 15%">
             <img src="/assets/images/mos-excel-logo.png"/>
@@ -161,7 +161,7 @@ title: "Certifications"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="microsoft-office-specialist-word-2013">Microsoft Office Specialist: Word 2013</h3>
+    <h3 id="mos-word-2013">Microsoft Office Specialist: Word 2013</h3>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 15%">
             <img src="/assets/images/mos-word-logo.png"/>
@@ -184,7 +184,7 @@ title: "Certifications"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="microsoft-office-specialist-powerpoint-2013">Microsoft Office Specialist: PowerPoint 2013</h3>
+    <h3 id="mos-powerpoint-2013">Microsoft Office Specialist: PowerPoint 2013</h3>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 15%">
             <img src="/assets/images/mos-powerpoint-logo.png"/>

@@ -14,7 +14,7 @@ feature_row2:
 
 feature_row3:
   - image_path: /assets/images/acm-logo.gif
-    excerpt: 'The USA ACM is a chapter of the national ACM organization, and is dedicated to advocating for the professional aspects of all computing fields, as well as exposing students to a variety of different research fields and career opportunities in the computing sciences.<br><br>Chapter Tutoring Chair: 2020-2021<br>Chapter Chair: 2019-2020<br>Chapter Member: 2018-2021'
+    excerpt: 'The USA chapter of the ACM is dedicated to advocating for the professional aspects of all computing fields, as well as exposing students to a variety of different research fields and career opportunities in the computing sciences.<br><br>Chapter Tutoring Chair: 2020-2021<br>Chapter Chair: 2019-2020<br>Chapter Member: 2018-2021'
     url: "https://www.southalabama.edu/colleges/soc/cist/studentorganizations.html"
 
 feature_row4:

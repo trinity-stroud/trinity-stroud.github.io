@@ -9,7 +9,7 @@ tags:
   - Competition
   - CTF
 header:
-  overlay_image: /assets/images/ncl-logo.png
+  overlay_image: /assets/images/ncl-background.png
   overlay_filter: 0.2
   image-description: "An image of the National Cyber League logo."
   caption: "Photo credit: [**National Cyber League**](https://nationalcyberleague.org)"
