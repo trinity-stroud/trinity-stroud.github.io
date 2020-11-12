@@ -4,7 +4,7 @@ title: "Competitions"
 ---
 
 <div style="float:left; display:inline-block">
-    <h3 id="nccaw-2020">National Cybersecurity Career Awareness Week (NCCAW) CTF</h3>
+    <h2 id="nccaw-2020">National Cybersecurity Career Awareness Week (NCCAW) CTF</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 20%">
             <img src="/assets/images/virginia-cyber-range-logo.png"/>
@@ -24,7 +24,7 @@ title: "Competitions"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="ncl-2020">National Cyber League</h3>
+    <h2 id="ncl-2020">National Cyber League</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 20%">
             <img src="/assets/images/ncl-logo.png"/>
@@ -45,7 +45,7 @@ title: "Competitions"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="cyber-fasttrack">Cyber FastTrack Program</h3>
+    <h2 id="cyber-fasttrack">Cyber FastTrack Program</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 20%">
             <img src="/assets/images/cyber-fasttrack-image.png"/>
@@ -65,13 +65,13 @@ title: "Competitions"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="mtm">Master the Mainframe</h3>
+    <h2 id="mtm">Master the Mainframe</h2>
     <div style="float:left; display:inline-block">
-        <span style="float:left; width: 42%">
-            <img src="/assets/images/ibm-logo.png"/>
+        <span style="float:left; width: 20%">
+            <img src="/assets/images/ibm-mtm-logo.png"/>
         </span>
         <span style="float:left; width: 2%"></span>
-        <span style="float:right; width: 56%">
+        <span style="float:right; width: 78%">
             <p style="float:left; display:block">
                 Hosted By: <a href="https://www.ibm.com/it-infrastructure/z/education/master-the-mainframe">IBM</a><br>
                 Date: 2020<br>
@@ -79,14 +79,14 @@ title: "Competitions"
             </p>
         </span>
     </div>
-    <br><br><br><br>
+    <br><br><br><br><br>
     Master the Mainframe introduces participants to enterprise systems and inspires interest in mainframe technology while allowing students to gain hands-on experience across a variety of technologies, to develop valuable skills, and to earn digital badges.
     <br><br>
     <a href="/about/certifications/#mtm-lvl-2" class="btn btn--info btn--small">Learn More</a>
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="cyber-challenge">Cyber Challenge</h3>
+    <h2 id="cyber-challenge">Cyber Challenge</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 20%">
             <img src="/assets/images/ec-council-logo.png"/>
@@ -106,7 +106,7 @@ title: "Competitions"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="icpc">International Collegiate Programming Contest Regionals</h3>
+    <h2 id="icpc">International Collegiate Programming Contest Regionals</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 20%">
             <img src="/assets/images/icpc-logo-large.png"/>
@@ -124,7 +124,7 @@ title: "Competitions"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="putnam">William Lowell Putnam Mathematical Competition</h3>
+    <h2 id="putnam">William Lowell Putnam Mathematical Competition</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 27%">
             <img src="/assets/images/maa-logo.png"/>
@@ -143,7 +143,7 @@ title: "Competitions"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="math-olympiad">Mobile Math Olympiad</h3>
+    <h2 id="math-olympiad">Mobile Math Olympiad</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 20%">
             <img src="/assets/images/usa-logo-large.png"/>

@@ -4,7 +4,7 @@ title: "Achievements"
 ---
 
 <div style="float:left; display:inline-block">
-    <h3 id="acm-scholarship">ACM Scholarship</h3>
+    <h2 id="acm-scholarship">ACM Scholarship</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 25%">
             <img src="/assets/images/acm-logo.gif"/>
@@ -22,7 +22,7 @@ title: "Achievements"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="academic-all-stars">Academic All-Stars 2019-2020</h3>
+    <h2 id="academic-all-stars">Academic All-Stars 2019-2020</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 25%">
             <img src="/assets/images/academic-all-stars.png"/>
@@ -40,7 +40,7 @@ title: "Achievements"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="surf">Summer Undergraduate Research Fellowship</h3>
+    <h2 id="surf">Summer Undergraduate Research Fellowship</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 25%">
             <img src="/assets/images/usa-logo-large.png"/>
@@ -60,7 +60,7 @@ title: "Achievements"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="cyber-fasttrack">Cyber FastTrack Scholarship</h3>
+    <h2 id="cyber-fasttrack">Cyber FastTrack Scholarship</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 25%">
             <img src="/assets/images/cyber-fasttrack-image.png"/>
@@ -80,7 +80,7 @@ title: "Achievements"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="rising-junior-scholarship">Neil Laura Henderson Rising Junior Scholarship</h3>
+    <h2 id="rising-junior-scholarship">Neil Laura Henderson Rising Junior Scholarship</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 25%">
             <img src="/assets/images/usa-logo-large.png"/>
@@ -98,7 +98,7 @@ title: "Achievements"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="presidents-list">President's Scholar List</h3>
+    <h2 id="presidents-list">President's Scholar List</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 25%">
             <img src="/assets/images/usa-logo-large.png"/>
@@ -116,7 +116,7 @@ title: "Achievements"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="deans-list">Dean's List</h3>
+    <h2 id="deans-list">Dean's List</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 25%">
             <img src="/assets/images/usa-logo-large.png"/>
@@ -134,7 +134,7 @@ title: "Achievements"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="physics-award">Outstanding Physics Student Award</h3>
+    <h2 id="physics-award">Outstanding Physics Student Award</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 25%">
             <img src="/assets/images/usa-logo-large.png"/>
@@ -152,7 +152,7 @@ title: "Achievements"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="english-award">English Excellence Award</h3>
+    <h2 id="english-award">English Excellence Award</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 25%">
             <img src="/assets/images/usa-logo-large.png"/>
@@ -170,7 +170,7 @@ title: "Achievements"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="academic-achievement-award">Distinguished Academic Achievement Award</h3>
+    <h2 id="academic-achievement-award">Distinguished Academic Achievement Award</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 25%">
             <img src="/assets/images/usa-logo-large.png"/>
@@ -187,7 +187,7 @@ title: "Achievements"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="whiddons-scholarship">Whiddon Honors Scholarship</h3>
+    <h2 id="whiddons-scholarship">Whiddon Honors Scholarship</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 25%">
             <img src="/assets/images/usa-honors-logo-large.png"/>
@@ -205,7 +205,7 @@ title: "Achievements"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="merit-scholarship">USA Merit Scholarship</h3>
+    <h2 id="merit-scholarship">USA Merit Scholarship</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 25%">
             <img src="/assets/images/usa-logo-large.png"/>
@@ -222,7 +222,7 @@ title: "Achievements"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="merit-finalist">National Merit Finalist</h3>
+    <h2 id="merit-finalist">National Merit Finalist</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 25%">
             <img src="/assets/images/national-merit-logo-large.jpg"/>
@@ -239,7 +239,7 @@ title: "Achievements"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="robotics-scholarship">BEST Robotics Scholarship</h3>
+    <h2 id="robotics-scholarship">BEST Robotics Scholarship</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 25%">
             <img src="/assets/images/usa-logo-large.png"/>
@@ -257,7 +257,7 @@ title: "Achievements"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="ap-scholar-with-distinction">AP Scholar with Distinction Award</h3>
+    <h2 id="ap-scholar-with-distinction">AP Scholar with Distinction Award</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 32%">
             <img src="/assets/images/college-board-logo-large.png"/>
@@ -276,7 +276,7 @@ title: "Achievements"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h3 id="ap-scholar-with-honor">AP Scholar with Honor Award</h3>
+    <h2 id="ap-scholar-with-honor">AP Scholar with Honor Award</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 32%">
             <img src="/assets/images/college-board-logo-large.png"/>

@@ -20,7 +20,11 @@ title: "Education"
     </div>
 </div>
 
+<!--
 <div style="float:left; display:inline-block">
+    Major: Computer Science<br>
+    Minor: Mathematics<br><br>
+    
     Relevant Coursework:
     <ul id="list">
         <li><nobr>&#8226; AI Theory and Programming</nobr></li>
@@ -44,6 +48,7 @@ title: "Education"
         <li><nobr>&#8226; Technical Writing</nobr></li>
     </ul>
 </div>
+-->
 
 <div style="float:left; display:inline-block">
     <h2 id="undergraduate-certificate-program-in-applied-cybersecurity">Undergraduate Certificate Program in Applied Cybersecurity</h2>
