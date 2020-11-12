@@ -4,6 +4,24 @@ title: "Competitions"
 ---
 
 <div style="float:left; display:inline-block">
+    <h3 id="nccaw-2020">National Cybersecurity Career Awareness Week (NCCAW) CTF</h3>
+    <div style="float:left; display:inline-block">
+        <span style="float:left; width: 20%">
+            <img src="/assets/images/virginia-cyber-range-logo.png"/>
+        </span>
+        <span style="float:left; width: 2%"></span>
+        <span style="float:right; width: 78%">
+            <p style="float:left; display:block">
+                Hosted By: <a href="https://nccaw2020.ctf.virginiacyberrange.org/">Virginia Cyber Range</a><br>
+                Date: 2020<br>
+                Performance: 1st Place Winner<br><br>
+            </p>
+        </span>
+    </div>
+    <a href="https://nccaw2020.ctf.virginiacyberrange.org/" class="btn btn--info btn--small">Learn More</a>
+</div>
+
+<div style="float:left; display:inline-block">
     <h3 id="ncl-2020">National Cyber League</h3>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 20%">
@@ -28,8 +46,8 @@ title: "Competitions"
         <span style="float:left; width: 20%">
             <img src="/assets/images/cyber-fasttrack-image.png"/>
         </span>
-        <span style="float:left; width: 3%"></span>
-        <span style="float:right; width: 77%">
+        <span style="float:left; width: 2%"></span>
+        <span style="float:right; width: 78%">
             <p style="float:left; display:block">
                 Hosted By: <a href="https://cyber-fasttrack.org/">SANS Technology Institute</a><br>
                 Date: 2019<br>
@@ -43,11 +61,11 @@ title: "Competitions"
 <div style="float:left; display:inline-block">
     <h3 id="mtm">Master the Mainframe</h3>
     <div style="float:left; display:inline-block">
-        <span style="float:left; width: 25%">
-            <img src="/assets/images/ibm-mtm-logo.png"/>
+        <span style="float:left; width: 42%">
+            <img src="/assets/images/ibm-logo.png"/>
         </span>
-        <span style="float:left; width: 4%"></span>
-        <span style="float:right; width: 71%">
+        <span style="float:left; width: 2%"></span>
+        <span style="float:right; width: 56%">
             <p style="float:left; display:block">
                 Hosted By: <a href="https://www.ibm.com/it-infrastructure/z/education/master-the-mainframe">IBM</a><br>
                 Date: 2020<br>
@@ -65,8 +83,8 @@ title: "Competitions"
         <span style="float:left; width: 20%">
             <img src="/assets/images/ec-council-logo.png"/>
         </span>
-        <span style="float:left; width: 3%"></span>
-        <span style="float:right; width: 77%">
+        <span style="float:left; width: 2%"></span>
+        <span style="float:right; width: 78%">
             <p style="float:left; display:block">
                 Hosted By: <a href="https://www.eccu.edu/cyber-challenge/">EC-Council University</a><br>
                 Date: 04/2020<br>
@@ -74,7 +92,6 @@ title: "Competitions"
             </p>
         </span>
     </div>
-    <br>
     <a href="https://www.eccu.edu/cyber-challenge/hall-of-fame/" class="btn btn--info btn--small">Learn More</a>
 </div>
 
@@ -84,8 +101,8 @@ title: "Competitions"
         <span style="float:left; width: 20%">
             <img src="/assets/images/icpc-logo-large.png"/>
         </span>
-        <span style="float:left; width: 3%"></span>
-        <span style="float:right; width: 77%">
+        <span style="float:left; width: 2%"></span>
+        <span style="float:right; width: 78%">
             <p style="float:left; display:block">
                 Hosted By: <a href="https://icpc.global/">ICPC Foundation</a><br>
                 Date: 2019<br>
@@ -98,10 +115,10 @@ title: "Competitions"
 <div style="float:left; display:inline-block">
     <h3 id="putnam">William Lowell Putnam Mathematical Competition</h3>
     <div style="float:left; display:inline-block">
-        <span style="float:left; width: 26%">
+        <span style="float:left; width: 27%">
             <img src="/assets/images/maa-logo.png"/>
         </span>
-        <span style="float:left; width: 4%"></span>
+        <span style="float:left; width: 3%"></span>
         <span style="float:right; width: 70%">
             <p style="float:left; display:block">
                 Hosted By: <a href="https://www.maa.org/math-competitions/putnam-competition">Mathematical Association of America</a><br>
@@ -118,8 +135,8 @@ title: "Competitions"
         <span style="float:left; width: 20%">
             <img src="/assets/images/usa-logo-large.png"/>
         </span>
-        <span style="float:left; width: 3%"></span>
-        <span style="float:right; width: 77%">
+        <span style="float:left; width: 2%"></span>
+        <span style="float:right; width: 78%">
             <p style="float:left; display:block">
                 Hosted By: <a href="https://www.southalabama.edu/colleges/artsandsci/mathstat/mathcircle.html">USA Math Circle</a><br>
                 Date: 2014 & 2015 & 2016 & 2017<br>
