@@ -1,5 +1,5 @@
 ---
-title: "Linux"
+title: "Linux Basics"
 excerpt: "About the Linux family of operating systems and its most useful commands."
 header:
   teaser: /assets/images/linux-logo.png
@@ -24,7 +24,7 @@ When you open a terminal on a Linux machine, the first thing you will be greeted
 user@hostname:~$
 ```
 
-...where ```user``` is the user account and ```hostname``` is the hostname of the computer. Additionally the ```~``` symbol is shorthand for the home folder of the current user. This is useful shortcut that can be used with many Linux commands.
+...where ```user``` is the user account and ```hostname``` is the hostname of the computer. Additionally the ```~``` symbol is shorthand for the home folder of the current user. This is a useful shortcut that can be used with many Linux commands.
 
 When a terminal is opened, the program being run is referred to as the shell. The shell is responsible for displaying the prompt in the terminal, interpreting commands entered in the terminal, and running programs.
 
@@ -75,7 +75,7 @@ Two of the commands which you will use with great frequency are the ```ls``` and
 
 The ```ls``` command (which stands for "list") will list and print out the directories and files located in the current working directory, or cwd for short. This command also has an optional parameter so that the user can specify a relative or absolute path to a directory. Additionally, the ```ls``` command has two optional flags which users may find themselves employing on a regular basis: ```ls -l``` and ```ls -a```.
 
-To list the files and directories in a specified directory in "long" format, the user can use the ```ls -l``` command. This format will include such information as permissions, file size, file creation datetime, and file/dir name information.
+To list the files and directories in a specified directory in "long" format, the user can use the ```ls -l``` command. This format will include such information as permissions, file size, file creation datetime, and file/dir name information. The ```ls -a``` command will list all files in the cwd, including hidden files, which are denoted by a dot at the beginning of the file name. For example, ```.bash_profile``` is a hidden file not normally visible to the user.
 
 Another very useful command is the ```cd```, or "change directory", command. Using this command with a specified relative or absolute path will change the current working directory to the specified directory. Some helpful shortcuts include ```cd ..```, which changes the cwd to the parent directory of the cwd, and ```cd ~```, which changes the cwd to the home directory.
 

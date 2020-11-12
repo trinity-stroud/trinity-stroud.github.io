@@ -18,7 +18,7 @@ title: "Competitions"
             </p>
         </span>
     </div>
-    A cybersecurity Capture-The-Flag competition to being awareness to National Cybersecurity Career Awareness Week. Included categories such as cryptography, networking, trivia, cybersecurity careers, web applications, reconnaissance, and more.
+    A cybersecurity Capture-The-Flag competition to bring awareness to National Cybersecurity Career Awareness Week. Included categories such as cryptography, networking, trivia, cybersecurity careers, web applications, reconnaissance, and more.
     <br><br>
     <a href="https://nccaw2020.ctf.virginiacyberrange.org/" class="btn btn--info btn--small">Learn More</a>
 </div>
@@ -75,7 +75,7 @@ title: "Competitions"
             <p style="float:left; display:block">
                 Hosted By: <a href="https://www.ibm.com/it-infrastructure/z/education/master-the-mainframe">IBM</a><br>
                 Date: 2020<br>
-                Performance: Level 3
+                Performance: Level 2
             </p>
         </span>
     </div>
