@@ -1,5 +1,5 @@
 ---
-title: "Circuit Generator Using Boolean Logic Representation"
+title: "Circuit Generator Using Boolean Logic Representation (Poster)"
 excerpt: "Poster produced for circuit obfuscation / boolean logic research as part of the USA Summer Undergraduate Research Fellowship (SURF) in 2019."
 header:
   teaser: /assets/images/example-circuits.png
