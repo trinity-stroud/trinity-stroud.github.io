@@ -82,7 +82,7 @@ title: "Competitions"
     <br><br><br><br>
     Master the Mainframe introduces participants to enterprise systems and inspires interest in mainframe technology while allowing students to gain hands-on experience across a variety of technologies, to develop valuable skills, and to earn digital badges.
     <br><br>
-    <a href="/about/certifications/mtm-lvl-2" class="btn btn--info btn--small">Learn More</a>
+    <a href="/about/certifications/#mtm-lvl-2" class="btn btn--info btn--small">Learn More</a>
 </div>
 
 <div style="float:left; display:inline-block">

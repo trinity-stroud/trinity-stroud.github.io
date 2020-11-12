@@ -55,6 +55,8 @@ title: "Achievements"
         </span>
     </div>
     Scholarship awarded to research scholars to be used as part of a competitive 10-week program wherein students undertake the most advanced undergraduate research projects at the university. Scholars present their research at the Undergraduate Research Symposium at the end of the year.
+    <br><br>
+    <a href="/portfolio/surf-poster/" class="btn btn--primary btn--small">Learn More</a>
 </div>
 
 <div style="float:left; display:inline-block">
@@ -68,11 +70,13 @@ title: "Achievements"
             <p style="float:left; display:block">
                 SANS Technology Institute<br>
                 Cyber FastTrack Program<br>
-                Award Date: 2019
+                Award Date: 2019<br><br>
             </p>
         </span>
     </div>
     Scholarship awarded to a select few national finalists in the Cyber FastTrack competition out of more than 13,000 original competitors from 924 colleges nationwide.
+    <br><br>
+    <a href="https://medium.com/cyber-fasttrack/scholarships-awarded-to-100-cyber-fasttrack-finalists-287b209630" class="btn btn--primary btn--small">Learn More</a>
 </div>
 
 <div style="float:left; display:inline-block">
@@ -175,7 +179,7 @@ title: "Achievements"
         <span style="float:right; width: 72%">
             <p style="float:left; display:block">
                 University of South Alabama<br>
-                Award Date: 2017
+                Award Date: 2017<br><br>
             </p>
         </span>
     </div>
@@ -210,7 +214,7 @@ title: "Achievements"
         <span style="float:right; width: 72%">
             <p style="float:left; display:block">
                 University of South Alabama<br>
-                Award Date: 2017
+                Award Date: 2017<br><br>
             </p>
         </span>
     </div>
@@ -227,7 +231,7 @@ title: "Achievements"
         <span style="float:right; width: 72%">
             <p style="float:left; display:block">
                 National Merit Scholarship Corporation<br>
-                Award Date: 2017
+                Award Date: 2017<br><br><br><br>
             </p>
         </span>
     </div>
