@@ -36,7 +36,6 @@ include:
   - _pages
   - _about
   - _portfolio
-  - _tryhackme
   - _cybersecbasics
 
 # The following items will not be processed, by default. Create a custom list to override the default setting.
@@ -121,14 +120,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _tryhackme
-  - scope:
-      path: "_tryhackme"
-      type: tryhackme
-    values:
-      layout: single
-      author_profile: true
-      share: true
   # _cybersecbasics
   - scope:
       path: "_cybersecbasics"
@@ -147,9 +138,6 @@ tag_archive:
 
 collections:
   portfolio:
-    output: true
-    permalink: /:collection/:path/
-  tryhackme:
     output: true
     permalink: /:collection/:path/
   cybersecbasics:
