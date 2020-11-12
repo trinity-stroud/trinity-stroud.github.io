@@ -1,119 +1,273 @@
 ---
 permalink: /about/achievements/
 title: "Achievements"
-
-feature_row1:
-  - image_path: /assets/images/acm-logo.gif
-    title: 'ACM Scholarship'
-    excerpt: 'University of South Alabama<br>School of Computing<br>Award Date: 2020'
-
-feature_row2:
-  - image_path: /assets/images/academic-all-stars.png
-    title: 'Academic All-Stars 2019-2020'
-    excerpt: 'University of South Alabama<br>School of Computing<br>Award Date: 2020'
-
-feature_row3:
-  - image_path: /assets/images/office-undergrad-research-logo.jpg
-    title: 'Summer Undergraduate Research Fellowship'
-    excerpt: 'University of South Alabama<br>Office of Undergraduate Research<br>Award Date: 2019'
-
-feature_row4:
-  - image_path: /assets/images/cyber-fasttrack-image.png
-    title: 'Cyber FastTrack Scholarship'
-    excerpt: 'SANS Technology Institute<br>Award Date: 2019'
-
-feature_row5:
-  - image_path: /assets/images/usa-logo-large.png
-    title: 'Neil Laura Henderson Rising Junior Scholarship'
-    excerpt: 'University of South Alabama<br>School of Computing<br>Award Date: 2019'
-
-feature_row6:
-  - image_path: /assets/images/usa-logo-large.png
-    title: "President's Scholar List"
-    excerpt: 'University of South Alabama<br>Award Date: Fall 2017 - Spring 2020'
-
-feature_row7:
-  - image_path: /assets/images/usa-logo-large.png
-    title: "Dean's List"
-    excerpt: 'University of South Alabama<br>Award Date: Fall 2016 & Summer 2018'
-
-feature_row8:
-  - image_path: /assets/images/usa-logo-large.png
-    title: 'Outstanding Physics Student Award'
-    excerpt: 'University of South Alabama<br>Department of Physics<br>Award Date: 2019'
-
-feature_row9:
-  - image_path: /assets/images/usa-logo-large.png
-    title: 'English Excellence Award'
-    excerpt: 'University of South Alabama<br>Department of English<br>Award Date: 2018'
-
-feature_row10:
-  - image_path: /assets/images/usa-logo-large.png
-    title: 'Distinguished Academic Achievement Award'
-    excerpt: 'University of South Alabama<br>Award Date: 2017'
-
-feature_row11:
-  - image_path: /assets/images/usa-honors-logo-large.png
-    title: 'Whiddon Honors Scholarship'
-    excerpt: 'University of South Alabama<br>Honors College<br>Award Date: 2017'
-
-feature_row12:
-  - image_path: /assets/images/usa-logo-large.png
-    title: 'USA Merit Scholarship'
-    excerpt: 'University of South Alabama<br>Award Date: 2017'
-
-feature_row13:
-  - image_path: /assets/images/national-merit-logo-large.jpg
-    title: 'National Merit Finalist'
-    excerpt: 'National Merit Scholarship Corporation<br>Award Date: 2017'
-
-feature_row14:
-  - image_path: /assets/images/usa-logo-large.png
-    title: 'BEST Robotics Scholarship'
-    excerpt: 'University of South Alabama<br>School of Computing<br>Award Date: 2017'
-
-feature_row15:
-  - image_path: /assets/images/college-board-logo-large.png
-    title: 'AP Scholar with Distinction Award'
-    excerpt: 'College Board<br>Award Date: 2017'
-
-feature_row16:
-  - image_path: /assets/images/college-board-logo-large.png
-    title: 'AP Scholar with Honor Award'
-    excerpt: 'College Board<br>Award Date: 2017'
-
 ---
 
-{% include feature_row id="feature_row1" type="left" %}
+<div style="float:left; display:inline-block">
+    <h3 id="acm-scholarship">ACM Scholarship</h3>
+    <div style="float:left; display:inline-block">
+        <span style="float:left; width: 25%">
+            <img src="/assets/images/acm-logo.gif"/>
+        </span>
+        <span style="float:left; width: 3%"></span>
+        <span style="float:right; width: 72%">
+            <p style="float:left; display:block">
+                University of South Alabama<br>
+                School of Computing<br>
+                Award Date: 2020
+            </p>
+        </span>
+    </div>
+</div>
 
-{% include feature_row id="feature_row2" type="left" %}
+<div style="float:left; display:inline-block">
+    <h3 id="academic-all-stars">Academic All-Stars 2019-2020</h3>
+    <div style="float:left; display:inline-block">
+        <span style="float:left; width: 25%">
+            <img src="/assets/images/academic-all-stars.png"/>
+        </span>
+        <span style="float:left; width: 3%"></span>
+        <span style="float:right; width: 72%">
+            <p style="float:left; display:block">
+                University of South Alabama<br>
+                School of Computing<br>
+                Award Date: 2020
+            </p>
+        </span>
+    </div>
+</div>
 
-{% include feature_row id="feature_row3" type="left" %}
+<div style="float:left; display:inline-block">
+    <h3 id="surf">Summer Undergraduate Research Fellowship</h3>
+    <div style="float:left; display:inline-block">
+        <span style="float:left; width: 25%">
+            <img src="/assets/images/usa-logo-large.png"/>
+        </span>
+        <span style="float:left; width: 3%"></span>
+        <span style="float:right; width: 72%">
+            <p style="float:left; display:block">
+                University of South Alabama<br>
+                Office of Undergraduate Research<br>
+                Award Date: 2019
+            </p>
+        </span>
+    </div>
+</div>
 
-{% include feature_row id="feature_row4" type="left" %}
+<div style="float:left; display:inline-block">
+    <h3 id="cyber-fasttrack">Cyber FastTrack Scholarship</h3>
+    <div style="float:left; display:inline-block">
+        <span style="float:left; width: 25%">
+            <img src="/assets/images/cyber-fasttrack-image.png"/>
+        </span>
+        <span style="float:left; width: 3%"></span>
+        <span style="float:right; width: 72%">
+            <p style="float:left; display:block">
+                SANS Technology Institute<br>
+                Cyber FastTrack Program<br>
+                Award Date: 2019
+            </p>
+        </span>
+    </div>
+</div>
 
-{% include feature_row id="feature_row5" type="left" %}
+<div style="float:left; display:inline-block">
+    <h3 id="rising-junior-scholarship">Neil Laura Henderson Rising Junior Scholarship</h3>
+    <div style="float:left; display:inline-block">
+        <span style="float:left; width: 25%">
+            <img src="/assets/images/usa-logo-large.png"/>
+        </span>
+        <span style="float:left; width: 3%"></span>
+        <span style="float:right; width: 72%">
+            <p style="float:left; display:block">
+                University of South Alabama<br>
+                School of Computing<br>
+                Award Date: 2019
+            </p>
+        </span>
+    </div>
+</div>
 
-{% include feature_row id="feature_row6" type="left" %}
+<div style="float:left; display:inline-block">
+    <h3 id="presidents-list">President's Scholar List</h3>
+    <div style="float:left; display:inline-block">
+        <span style="float:left; width: 25%">
+            <img src="/assets/images/usa-logo-large.png"/>
+        </span>
+        <span style="float:left; width: 3%"></span>
+        <span style="float:right; width: 72%">
+            <p style="float:left; display:block">
+                University of South Alabama<br>
+                Award Date: Fall 2017 - Spring 2020
+            </p>
+        </span>
+    </div>
+</div>
 
-{% include feature_row id="feature_row7" type="left" %}
+<div style="float:left; display:inline-block">
+    <h3 id="deans-list">Dean's List</h3>
+    <div style="float:left; display:inline-block">
+        <span style="float:left; width: 25%">
+            <img src="/assets/images/usa-logo-large.png"/>
+        </span>
+        <span style="float:left; width: 3%"></span>
+        <span style="float:right; width: 72%">
+            <p style="float:left; display:block">
+                University of South Alabama<br>
+                Award Date: Fall 2016 & Summer 2018
+            </p>
+        </span>
+    </div>
+</div>
 
-{% include feature_row id="feature_row8" type="left" %}
+<div style="float:left; display:inline-block">
+    <h3 id="physics-award">Outstanding Physics Student Award</h3>
+    <div style="float:left; display:inline-block">
+        <span style="float:left; width: 25%">
+            <img src="/assets/images/usa-logo-large.png"/>
+        </span>
+        <span style="float:left; width: 3%"></span>
+        <span style="float:right; width: 72%">
+            <p style="float:left; display:block">
+                University of South Alabama<br>
+                Department of Physics<br>
+                Award Date: 2019
+            </p>
+        </span>
+    </div>
+</div>
 
-{% include feature_row id="feature_row9" type="left" %}
+<div style="float:left; display:inline-block">
+    <h3 id="english-award">English Excellence Award</h3>
+    <div style="float:left; display:inline-block">
+        <span style="float:left; width: 25%">
+            <img src="/assets/images/usa-logo-large.png"/>
+        </span>
+        <span style="float:left; width: 3%"></span>
+        <span style="float:right; width: 72%">
+            <p style="float:left; display:block">
+                University of South Alabama<br>
+                Department of English<br>
+                Award Date: 2018
+            </p>
+        </span>
+    </div>
+</div>
 
-{% include feature_row id="feature_row10" type="left" %}
+<div style="float:left; display:inline-block">
+    <h3 id="academic-achievement-award">Distinguished Academic Achievement Award</h3>
+    <div style="float:left; display:inline-block">
+        <span style="float:left; width: 25%">
+            <img src="/assets/images/usa-logo-large.png"/>
+        </span>
+        <span style="float:left; width: 3%"></span>
+        <span style="float:right; width: 72%">
+            <p style="float:left; display:block">
+                University of South Alabama<br>
+                Award Date: 2017
+            </p>
+        </span>
+    </div>
+</div>
 
-{% include feature_row id="feature_row11" type="left" %}
+<div style="float:left; display:inline-block">
+    <h3 id="whiddons-scholarship">Whiddon Honors Scholarship</h3>
+    <div style="float:left; display:inline-block">
+        <span style="float:left; width: 25%">
+            <img src="/assets/images/usa-honors-logo-large.png"/>
+        </span>
+        <span style="float:left; width: 3%"></span>
+        <span style="float:right; width: 72%">
+            <p style="float:left; display:block">
+                University of South Alabama<br>
+                Honors College<br>
+                Award Date: 2017
+            </p>
+        </span>
+    </div>
+</div>
 
-{% include feature_row id="feature_row12" type="left" %}
+<div style="float:left; display:inline-block">
+    <h3 id="merit-scholarship">USA Merit Scholarship</h3>
+    <div style="float:left; display:inline-block">
+        <span style="float:left; width: 25%">
+            <img src="/assets/images/usa-logo-large.png"/>
+        </span>
+        <span style="float:left; width: 3%"></span>
+        <span style="float:right; width: 72%">
+            <p style="float:left; display:block">
+                University of South Alabama<br>
+                Award Date: 2017
+            </p>
+        </span>
+    </div>
+</div>
 
-{% include feature_row id="feature_row13" type="left" %}
+<div style="float:left; display:inline-block">
+    <h3 id="merit-finalist">National Merit Finalist</h3>
+    <div style="float:left; display:inline-block">
+        <span style="float:left; width: 25%">
+            <img src="/assets/images/national-merit-logo-large.jpg"/>
+        </span>
+        <span style="float:left; width: 3%"></span>
+        <span style="float:right; width: 72%">
+            <p style="float:left; display:block">
+                National Merit Scholarship Corporation<br>
+                Award Date: 2017
+            </p>
+        </span>
+    </div>
+</div>
 
-{% include feature_row id="feature_row14" type="left" %}
+<div style="float:left; display:inline-block">
+    <h3 id="robotics-scholarship">BEST Robotics Scholarship</h3>
+    <div style="float:left; display:inline-block">
+        <span style="float:left; width: 25%">
+            <img src="/assets/images/usa-logo-large.png"/>
+        </span>
+        <span style="float:left; width: 3%"></span>
+        <span style="float:right; width: 72%">
+            <p style="float:left; display:block">
+                University of South Alabama<br>
+                School of Computing<br>
+                Award Date: 2017
+            </p>
+        </span>
+    </div>
+</div>
 
-{% include feature_row id="feature_row15" type="left" %}
+<div style="float:left; display:inline-block">
+    <h3 id="ap-scholar-with-distinction">AP Scholar with Distinction Award</h3>
+    <div style="float:left; display:inline-block">
+        <span style="float:left; width: 32%">
+            <img src="/assets/images/college-board-logo-large.png"/>
+        </span>
+        <span style="float:left; width: 3%"></span>
+        <span style="float:right; width: 65%">
+            <p style="float:left; display:block">
+                College Board AP Program<br>
+                Award Date: 2017
+            </p>
+        </span>
+    </div>
+</div>
 
-{% include feature_row id="feature_row16" type="left" %}
-
-[Back to Top](#top){: .btn .btn--primary .btn--small}
+<div style="float:left; display:inline-block">
+    <h3 id="ap-scholar-with-honor">AP Scholar with Honor Award</h3>
+    <div style="float:left; display:inline-block">
+        <span style="float:left; width: 32%">
+            <img src="/assets/images/college-board-logo-large.png"/>
+        </span>
+        <span style="float:left; width: 3%"></span>
+        <span style="float:right; width: 65%">
+            <p style="float:left; display:block">
+                College Board AP Program<br>
+                Award Date: 2017
+            </p>
+        </span>
+    </div>
+    <p>&nbsp;</p>
+    <div style="display:block">
+      <a href="#top" class="btn btn--primary btn--small">Back to Top</a>
+    </div>
+</div>
