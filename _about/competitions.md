@@ -34,11 +34,12 @@ title: "Competitions"
             <p style="float:left; display:block">
                 Hosted By: <a href="https://nationalcyberleague.org/">Cyber Skyline</a><br>
                 Date: October-November 2020<br>
-                Performance: Top 3% in Preseason
+                Performance: Top 3% in Preseason<br>
+                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Top 6% in Individual (Overall)
             </p>
         </span>
     </div>
-    <br><br><br><br>
+    <br><br><br><br><br>
     National Cyber League is the most inclusive, performance-based, learning-centered collegiate cybersecurity competition with challenges in such categories as open-source intelligence, cryptography, password cracking, log analysis, forensics, web app exploitation, and more.
     <br><br>
     <a href="/blog/ncl-fall-preseason/" class="btn btn--info btn--small">Learn More</a>

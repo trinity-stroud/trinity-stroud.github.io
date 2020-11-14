@@ -1,6 +1,6 @@
 ---
-permalink: /about/achievements/
-title: "Achievements"
+permalink: /about/awards/
+title: "Awards"
 ---
 
 <div style="float:left; display:inline-block">
@@ -94,7 +94,7 @@ title: "Achievements"
             </p>
         </span>
     </div>
-    Scholarship given to one student from each undergraduate classification within the USA School of Computing.
+    Scholarship given to one student from each undergraduate classification within the University of South Alabama School of Computing.
 </div>
 
 <div style="float:left; display:inline-block">
@@ -214,7 +214,7 @@ title: "Achievements"
         <span style="float:right; width: 72%">
             <p style="float:left; display:block">
                 University of South Alabama<br>
-                Award Date: 2017<br><br>
+                Award Date: 2017<br>
             </p>
         </span>
     </div>
@@ -231,7 +231,7 @@ title: "Achievements"
         <span style="float:right; width: 72%">
             <p style="float:left; display:block">
                 National Merit Scholarship Corporation<br>
-                Award Date: 2017<br><br><br>
+                Award Date: 2017<br><br>
             </p>
         </span>
     </div>

@@ -37,9 +37,9 @@ I also work as a research assistant for my university as part of our Computing U
         <div><strong>Competitions</strong></div>
         <br>
     </a>
-    <a class="container" href="/about/achievements/">
+    <a class="container" href="/about/awards/">
         <i class="fas fa-award"></i>
-        <div><strong>Achievements</strong></div>
+        <div><strong>Awards</strong></div>
         <br>
     </a>
     <a class="container" href="/about/organizations/">
