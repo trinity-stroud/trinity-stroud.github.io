@@ -13,14 +13,14 @@ title: "Competitions"
         <span style="float:right; width: 78%">
             <p style="float:left; display:block">
                 Hosted By: <a href="https://nccaw2020.ctf.virginiacyberrange.org/">Virginia Cyber Range</a><br>
-                Date: 2020<br>
+                Date: November 9-13, 2020<br>
                 Performance: 1st Place Winner
             </p>
         </span>
     </div>
     A cybersecurity Capture-The-Flag competition to bring awareness to National Cybersecurity Career Awareness Week. Included categories such as cryptography, networking, trivia, cybersecurity careers, web applications, reconnaissance, and more.
     <br><br>
-    <a href="https://nccaw2020.ctf.virginiacyberrange.org/" class="btn btn--info btn--small">Learn More</a>
+    <a href="https://github.com/trinity-stroud/nccaw-2020-writeup#national-cybersecurity-career-awareness-week-nccaw-2020-competition" class="btn btn--info btn--small">Visit Write-Up</a>
 </div>
 
 <div style="float:left; display:inline-block">
@@ -33,12 +33,12 @@ title: "Competitions"
         <span style="float:right; width: 76%">
             <p style="float:left; display:block">
                 Hosted By: <a href="https://nationalcyberleague.org/">Cyber Skyline</a><br>
-                Date: Fall 2020<br>
+                Date: October-November 2020<br>
                 Performance: Top 3% in Preseason
             </p>
         </span>
     </div>
-    <br><br><br><br><br>
+    <br><br><br><br>
     National Cyber League is the most inclusive, performance-based, learning-centered collegiate cybersecurity competition with challenges in such categories as open-source intelligence, cryptography, password cracking, log analysis, forensics, web app exploitation, and more.
     <br><br>
     <a href="/blog/ncl-fall-preseason/" class="btn btn--info btn--small">Learn More</a>
@@ -54,7 +54,7 @@ title: "Competitions"
         <span style="float:right; width: 78%">
             <p style="float:left; display:block">
                 Hosted By: <a href="https://cyber-fasttrack.org/">SANS Technology Institute</a><br>
-                Date: 2019<br>
+                Date: May-September, 2019<br>
                 Performance: National Finalist
             </p>
         </span>
@@ -74,12 +74,12 @@ title: "Competitions"
         <span style="float:right; width: 78%">
             <p style="float:left; display:block">
                 Hosted By: <a href="https://www.ibm.com/it-infrastructure/z/education/master-the-mainframe">IBM</a><br>
-                Date: 2020<br>
+                Date: September 2020 - January 2021<br>
                 Performance: Level 2
             </p>
         </span>
     </div>
-    <br><br><br><br><br>
+    <br><br><br><br>
     Master the Mainframe introduces participants to enterprise systems and inspires interest in mainframe technology while allowing students to gain hands-on experience across a variety of technologies, to develop valuable skills, and to earn digital badges.
     <br><br>
     <a href="/about/certifications/#mtm-lvl-2" class="btn btn--info btn--small">Learn More</a>
@@ -95,7 +95,7 @@ title: "Competitions"
         <span style="float:right; width: 78%">
             <p style="float:left; display:block">
                 Hosted By: <a href="https://www.eccu.edu/cyber-challenge/">EC-Council University</a><br>
-                Date: 04/2020<br>
+                Date: April 2020<br>
                 Performance: Hall of Fame
             </p>
         </span>
@@ -115,7 +115,7 @@ title: "Competitions"
         <span style="float:right; width: 78%">
             <p style="float:left; display:block">
                 Hosted By: <a href="https://icpc.global/">ICPC Foundation</a><br>
-                Date: 2019<br>
+                Date: September 2019<br>
                 Performance: Placed 3rd in Division II
             </p>
         </span>
@@ -133,7 +133,7 @@ title: "Competitions"
         <span style="float:right; width: 70%">
             <p style="float:left; display:block">
                 Hosted By: <a href="https://www.maa.org/math-competitions/putnam-competition">Mathematical Association of America</a><br>
-                Date: 2018 & 2019<br>
+                Date: December 2018 & 2019<br>
                 Performance: Scored 3 & 1, respectively
             </p>
         </span>

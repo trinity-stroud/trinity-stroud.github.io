@@ -73,6 +73,6 @@ a {
     text-decoration: none;
 }
 figure > a > i {
-    font-size: 100px
+    font-size: 85px
 }
 </style>

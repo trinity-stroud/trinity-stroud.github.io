@@ -70,7 +70,7 @@ title: "Achievements"
             <p style="float:left; display:block">
                 SANS Technology Institute<br>
                 Cyber FastTrack Program<br>
-                Award Date: 2019<br><br>
+                Award Date: 2019<br>
             </p>
         </span>
     </div>
@@ -179,7 +179,7 @@ title: "Achievements"
         <span style="float:right; width: 72%">
             <p style="float:left; display:block">
                 University of South Alabama<br>
-                Award Date: 2017<br><br>
+                Award Date: 2017<br>
             </p>
         </span>
     </div>
@@ -231,7 +231,7 @@ title: "Achievements"
         <span style="float:right; width: 72%">
             <p style="float:left; display:block">
                 National Merit Scholarship Corporation<br>
-                Award Date: 2017<br><br><br><br>
+                Award Date: 2017<br><br><br>
             </p>
         </span>
     </div>
