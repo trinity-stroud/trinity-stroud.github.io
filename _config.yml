@@ -37,6 +37,7 @@ include:
   - _about
   - _portfolio
   - _cybersecguides
+  - _write-ups
 
 # The following items will not be processed, by default. Create a custom list to override the default setting.
 # exclude:
@@ -127,6 +128,14 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  # _write-ups
+  - scope:
+      path: "_write-ups"
+      type: write-ups
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 category_archive:
   type: liquid
@@ -140,5 +149,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   cybersecguides:
+    output: true
+    permalink: /:collection/:path/
+  write-ups:
     output: true
     permalink: /:collection/:path/
