@@ -20,35 +20,37 @@ title: "Education"
     </div>
 </div>
 
-<!--
-<div style="float:left; display:inline-block">
+<div style="float:left; display:inline-block; width:100%">
     Major: Computer Science<br>
     Minor: Mathematics<br><br>
-    
-    Relevant Coursework:
-    <ul id="list">
-        <li><nobr>&#8226; AI Theory and Programming</nobr></li>
-        <li><nobr>&#8226; Adv. Data Structures and Algs.</nobr></li>
-        <li><nobr>&#8226; Appl. Probability - Stats.</nobr></li>
-        <li><nobr>&#8226; Cal.-Based Physics I & II</nobr></li>
-        <li><nobr>&#8226; Computer Architecture</nobr></li>
-        <li><nobr>&#8226; Concurrent and Distributed Computing</nobr></li>
-        <li><nobr>&#8226; Data Mining</nobr></li>
-        <li><nobr>&#8226; Data Warehousing</nobr></li>
-        <li><nobr>&#8226; Database Concepts</nobr></li>
-        <li><nobr>&#8226; Discrete Math.</nobr></li>
-        <li><nobr>&#8226; Formal Lang. - Automata Theory</nobr></li>
-        <li><nobr>&#8226; Calculus I & II</nobr></li>
-        <li><nobr>&#8226; Number Theory</nobr></li>
-        <li><nobr>&#8226; Linear Algebra I</nobr></li>
-        <li><nobr>&#8226; Networking</nobr></li>
-        <li><nobr>&#8226; Operating Systems</nobr></li>
-        <li><nobr>&#8226; Program Lang. Theory</nobr></li>
-        <li><nobr>&#8226; Software Eng. Principles</nobr></li>
-        <li><nobr>&#8226; Technical Writing</nobr></li>
+    Relevant Coursework:<br><br>
+    <ul style="float:left; width:auto; margin-top: 0px; margin-bottom: 0px">
+        <li>AI Theory and Programming</li>
+        <li>Computer Architecture</li>
+        <li>Adv. Data Struc. and Algs.</li>
+        <li>Applied Probability - Stats.</li>
+        <li>Operating Systems</li>
+        <li>Calculus-Based Physics I & II</li>
+        <li>Technical Writing</li>
+    </ul>
+    <ul style="float:left; width:auto; margin-top: 0px; margin-bottom: 0px">
+        <li>Conc. and Distr. Computing</li>
+        <li>Data Warehousing</li>
+        <li>Program Language Theory</li>
+        <li>Data Mining</li>
+        <li>Database Concepts</li>
+        <li>Discrete Math</li>
+    </ul>
+    <ul style="float:left; width:auto; margin-top: 0px; margin-bottom: 0px">
+        <li>Software Eng. Principles</li>
+        <li>Automata Theory</li>
+        <li>Calculus I & II</li>
+        <li>Number Theory</li>
+        <li>Linear Algebra I</li>
+        <li>Networking</li>
     </ul>
 </div>
--->
+
 
 <div style="float:left; display:inline-block">
     <h2 id="undergraduate-certificate-program-in-applied-cybersecurity">Undergraduate Certificate Program in Applied Cybersecurity</h2>
@@ -75,20 +77,3 @@ Relevant Coursework:
     <li>ACS 4542 Web App Penetration Testing & Ethical Hacking | SEC 542 | GWAPT Certification</li>
 </ul>
 </div>
-
-<style>
-#list li
-{
-    display: inline;
-    list-style-type: disc;
-    padding-right: 20px;
-}
-
-table
-{
-    border-collapse: collapse; 
-    float: left; 
-    display: inline-block; 
-    font-size: 22px;
-}
-</style>
