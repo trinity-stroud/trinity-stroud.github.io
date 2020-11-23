@@ -107,8 +107,7 @@ title: "Awards"
         <span style="float:right; width: 72%">
             <p style="float:left; display:block">
                 University of South Alabama<br>
-                Award Date:<br>
-                Fall 2017 - Spring 2020
+                Award Date: Fa2017 - Sp2020
             </p>
         </span>
     </div>
@@ -125,8 +124,7 @@ title: "Awards"
         <span style="float:right; width: 72%">
             <p style="float:left; display:block">
                 University of South Alabama<br>
-                Award Date:<br>
-                Fall 2016 & Summer 2018
+                Award Date: Fa2016 & Su2018
             </p>
         </span>
     </div>
