@@ -21,11 +21,12 @@ title: "Experience"
     <span style="float:left">
         <p>Description:</p>
         <ul>
-            <li><i>Secure and Trustworthy Cyberspace (SaTC) Program Grant : Award # CNS-1811578</i></li>
-            <li>Assisted in developing Java software for random program generations</li>
+            <li>Assisted in developing Java software for random program generation</li>
             <li>Conducted and published circuit obfuscation research</li>
+            <li>Presented research poster at the 2019 NSF Secure and Trustworthy Cyberspace (SaTC) Conference in Alexandria, Virginia</li>
+            <li>Published research article in the Proceedings of the 35th Annual ACM Symposium on Applied Computing (SAC '20)</li>
         </ul>
-        <a href="/portfolio/satc-poster/" class="btn btn--primary btn--small">Learn More</a>
+        <a href="/about/publications/" class="btn btn--primary btn--small">Learn More</a>
     </span>
 </div>
 
@@ -62,7 +63,7 @@ title: "Experience"
         <span style="float:right; width: 80%">
             <p style="float:right; display:block">
             University of South Alabama<br>
-            (with AM/NS Calvert)<br>
+            School of Computing<br>
             Mobile, Alabama, USA<br>
             <i>09/2019 - 08/2020</i>
             </p>
@@ -71,6 +72,7 @@ title: "Experience"
     <span style="float:left">
         <p>Description:</p>
         <ul>
+            <li>Managed internship through the USA SoC Internship Program for AM/NS Calvert</li>
             <li>Digitized physical forms for data collection, organization, and retrieval</li>
             <li>Created front-end of forms with HTML, JavaScript, and Vue.js</li>
         </ul>
@@ -98,7 +100,7 @@ title: "Experience"
             <li>Approximated random circuit selection using deterministic polymorphic generation</li>
             <li>Compared distributions produced by three different obfuscation algorithms</li>
             <li>Wrote literature review and academic paper on research results</li>
-            <li>Presented research poster at Undergraduate Research Symposium in the Fall</li>
+            <li>Presented research poster at USA Undergraduate Research Symposium in Fall 2019</li>
         </ul>
         <a href="/portfolio/surf-poster/" class="btn btn--primary btn--small">Learn More</a>
     </span>
