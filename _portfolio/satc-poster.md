@@ -1,5 +1,5 @@
 ---
-title: "Developing a Deterministic Polymorphic Circuit Generator"
+title: "SaTC Poster"
 excerpt: "Poster produced for the NSF Secure and Trustworthy Cyberspace (SaTC) program held in Alexandria, Virginia in 2019."
 header:
   teaser: /assets/images/example-isr-algorithm.png
