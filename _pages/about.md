@@ -50,18 +50,24 @@ I also work as a research assistant for my university as part of our Computing U
     <a class="container" href="/about/presentations/">
         <i class="fas fa-chalkboard-teacher"></i>
         <div><strong>Presentations</strong></div>
-        <br>
     </a>
     <a class="container" href="/about/publications/">
         <i class="fas fa-newspaper"></i>
         <div><strong>Publications</strong></div>
-        <br>
     </a>
     <a class="container" href="/about/media/">
         <i class="fas fa-image"></i>
         <div><strong>Media</strong></div>
-        <br>
     </a>
+</figure>
+
+<figure class="third">
+    <a class="container"></a>
+    <a class="container" href="/assets/files/TrinityStroudResume.pdf">
+        <i class="fas fa-download"></i>
+        <div><strong>Resume</strong></div>
+    </a>
+    <a class="container"></a>
 </figure>
 
 <style>
@@ -73,6 +79,6 @@ a {
     text-decoration: none;
 }
 figure > a > i {
-    font-size: 80px
+    font-size: 75px
 }
 </style>
