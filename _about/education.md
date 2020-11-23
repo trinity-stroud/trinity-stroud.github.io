@@ -70,8 +70,8 @@ title: "Education"
 Relevant Coursework:
 <ul>
     <li>ACS 3201 Security Foundations</li>
-    <li>ACS 3401 Security Essentials | SEC 401 | <a href="/about/certifications/#giac-security-essentials-certification-gsec">GSEC Certification</a></li>
-    <li>ACS 3504 Security Incident Handling & Hacker Exploits | SEC 504 | <a href="/about/certifications/#giac-certified-incident-handler-gcih">GCIH Certification</a></li>
+    <li>ACS 3401 Security Essentials | SEC 401 | <a href="/about/certifications/#gsec">GSEC Certification</a></li>
+    <li>ACS 3504 Security Incident Handling & Hacker Exploits | SEC 504 | <a href="/about/certifications/#gcih">GCIH Certification</a></li>
     <li>ACS 4542 Web App Penetration Testing & Ethical Hacking | SEC 542 | GWAPT Certification</li>
 </ul>
 </div>
