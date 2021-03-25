@@ -5,7 +5,3 @@ main:
     url: /posts/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Cybersecurity Guides"
-    url: /cybersecguides/
-  - title: "Write-Ups"
-    url: /write-ups/

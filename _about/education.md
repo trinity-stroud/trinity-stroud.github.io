@@ -13,7 +13,7 @@ title: "Education"
             <p style="float:right; display:block">
             University of South Alabama<br>
             Mobile, Alabama, USA<br>
-            4.0 GPA (on a scale of 4.0)<br>
+            GPA: 4.0/4.0<br>
             <i>08/2017 - 05/2021</i>
             </p>
         </span>
@@ -61,7 +61,7 @@ title: "Education"
         <span style="float:right; width: 80%">
             <p style="float:right; display:block">
             SANS Technology Institute<br>
-            4.0 GPA (on a scale of 4.0)<br>
+            GPA: 4.0/4.0<br>
             <i>12/2019 - 12/2020</i>
             </p>
         </span>
@@ -69,11 +69,13 @@ title: "Education"
 </div>
 
 <div style="float:left; display:inline-block">
+Undergraduate Honors Distinction
+<br><br>
 Relevant Coursework:
 <ul>
     <li>ACS 3201 Security Foundations</li>
     <li>ACS 3401 Security Essentials | SEC 401 | <a href="/about/certifications/#gsec">GSEC Certification</a></li>
     <li>ACS 3504 Security Incident Handling & Hacker Exploits | SEC 504 | <a href="/about/certifications/#gcih">GCIH Certification</a></li>
-    <li>ACS 4542 Web App Penetration Testing & Ethical Hacking | SEC 542 | GWAPT Certification</li>
+    <li>ACS 4542 Web App Penetration Testing & Ethical Hacking | SEC 542 | <a href="/about/certifications/#gwapt">GWAPT Certification</a></li>
 </ul>
 </div>

@@ -4,6 +4,44 @@ title: "Competitions"
 ---
 
 <div style="float:left; display:inline-block">
+    <h2 id="nccaw-2020">Maryland Cyber Challenge</h2>
+    <div style="float:left; display:inline-block">
+        <span style="float:left; width: 20%">
+            <img src="/assets/images/maryland-cyber-challenge-logo.png"/>
+        </span>
+        <span style="float:left; width: 2%"></span>
+        <span style="float:right; width: 78%">
+            <p style="float:left; display:block">
+                Hosted By: <a href="https://www.fbcconferences.com/e/cybermdconference/challenge.aspx">University of Maryland Global Campus</a><br>
+                Date: March 24, 2021<br>
+                Performance: 4th Place Team
+            </p>
+        </span>
+    </div>
+    <br><br><br><br>
+    A virtual competition testing cyber skills in 10 different categories: encryption, file analysis, forensics, log analysis, reverse engineering, network captures, open source intelligence, hashing, exploitation, and virtual machines.
+
+</div>
+
+<div style="float:left; display:inline-block">
+    <h2 id="nccaw-2020">National Cyber Collegiate Cyber Defense Competition</h2>
+    <div style="float:left; display:inline-block">
+        <span style="float:left; width: 20%">
+            <img src="/assets/images/ccdc-logo.png"/>
+        </span>
+        <span style="float:left; width: 2%"></span>
+        <span style="float:right; width: 78%">
+            <p style="float:left; display:block">
+                Hosted By: <a href="https://www.nationalccdc.org/">Center for Infrastructure Assurance and Security</a><br>
+                Date: February 20, 2021<br>
+                Performance: Qualifiers
+            </p>
+        </span>
+    </div>
+    The largest college-level cyber defense competition in the USA. CCDC is unique in that it focuses on the operational aspect of managing and protecting an existing network infrastructure
+</div>
+
+<div style="float:left; display:inline-block">
     <h2 id="nccaw-2020">National Cybersecurity Career Awareness Week (NCCAW) CTF</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 20%">
@@ -84,26 +122,6 @@ title: "Competitions"
     Master the Mainframe introduces participants to enterprise systems and inspires interest in mainframe technology while allowing students to gain hands-on experience across a variety of technologies, to develop valuable skills, and to earn digital badges.
     <br><br>
     <a href="/about/certifications/#mtm-lvl-2" class="btn btn--info btn--small">Learn More</a>
-</div>
-
-<div style="float:left; display:inline-block">
-    <h2 id="cyber-challenge">Cyber Challenge</h2>
-    <div style="float:left; display:inline-block">
-        <span style="float:left; width: 20%">
-            <img src="/assets/images/ec-council-logo.png"/>
-        </span>
-        <span style="float:left; width: 2%"></span>
-        <span style="float:right; width: 78%">
-            <p style="float:left; display:block">
-                Hosted By: <a href="https://www.eccu.edu/cyber-challenge/">EC-Council University</a><br>
-                Date: April 2020<br>
-                Performance: Hall of Fame
-            </p>
-        </span>
-    </div>
-    EC-Council University Cyber Challenge is an online event created by the university to engage cybersecurity professionals and enthusiasts. This event aims to unlock the potential of aspiring specialists and help them pursue a rewarding career in cybersecurity
-    <br><br>
-    <a href="https://www.eccu.edu/cyber-challenge/hall-of-fame/" class="btn btn--info btn--small">Learn More</a>
 </div>
 
 <div style="float:left; display:inline-block">
