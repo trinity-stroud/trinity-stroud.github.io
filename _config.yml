@@ -61,18 +61,15 @@ author:
   bio    : "Undergraduate computer science student with a passion for cybersecurity."
   location: "Alabama, USA"
   links:
-    #- label: "Website"
-    #  icon: "fas fa-fw fa-link"
-    #  url: "https://"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/trinity-leanne-stroud/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/trinity-stroud/"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/"
+    - label: "ResearchGate"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.researchgate.net/profile/Trinity-Stroud"
 
 footer:
   links:
@@ -82,6 +79,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/trinity-stroud/"
+    - label: "ResearchGate"
+      icon: "fa fa-link"
+      url: "https://www.researchgate.net/profile/Trinity-Stroud"
 
 defaults:
   # _posts
