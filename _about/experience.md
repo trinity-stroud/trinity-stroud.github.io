@@ -4,7 +4,7 @@ title: "Experience"
 ---
 
 <div style="float:left; display:inline-block">
-    <h2 id="undergraduate-research-assistant">Undergraduate Research Assistant</h2>
+    <h2 id="student-intern-biml">Student Intern</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 20%">
             <img src="/assets/images/usa-logo-small.png" alt="USA Logo"/>
@@ -14,7 +14,34 @@ title: "Experience"
             University of South Alabama<br>
             School of Computing<br>
             Mobile, Alabama, USA<br>
-            <i>05/2019 - 11/2020</i>
+            <i>02/2021 - Present</i>
+            </p>
+        </span>
+    </div>
+    <span style="float:left">
+        <p>Description:</p>
+        <ul>
+            <li>Joint internship with the USA School of Computing (SoC) and the Berryville Institute of Machine Learning (BIML).</li>
+            <li>Examined and documented the machine learning security research interests and activities of SoC and BIML.</li>
+            <li>Created a cross reference for joint research interests and activity between SoC and BIML.</li>
+            <li>Constructed a list of prospective joint SoC BIML research projects.</li>
+        </ul>
+        <a href="https://berryvilleiml.com/2021/03/24/introducing-a-biml-university-scholar/" class="btn btn--primary btn--small">Learn More</a>
+    </span>
+</div>
+
+<div style="float:left; display:inline-block">
+    <h2 id="undergraduate-research-assistant-satc">Undergraduate Research Assistant</h2>
+    <div style="float:left; display:inline-block">
+        <span style="float:left; width: 20%">
+            <img src="/assets/images/usa-logo-small.png" alt="USA Logo"/>
+        </span>
+        <span style="float:right">
+            <p style="float:right; display:block">
+            University of South Alabama<br>
+            School of Computing<br>
+            Mobile, Alabama, USA<br>
+            <i>05/2019 - 12/2020</i>
             </p>
         </span>
     </div>
@@ -55,7 +82,7 @@ title: "Experience"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h2 id="software-engineering-student-intern">Student Intern</h2>
+    <h2 id="student-intern-amns">Student Intern</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 20%">
             <img src="/assets/images/usa-logo-small.png" alt="USA Logo"/>
@@ -107,7 +134,7 @@ title: "Experience"
 </div>
 
 <div style="float:left; display:inline-block">
-    <h2 id="undergraduate-student-assistant">Undergraduate Research Assistant</h2>
+    <h2 id="undergraduate-student-assistant-cure">Undergraduate Research Assistant</h2>
     <div style="float:left; display:inline-block">
         <span style="float:left; width: 20%">
             <img src="/assets/images/usa-logo-small.png" alt="USA Logo"/>
